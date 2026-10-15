@@ -1,0 +1,22 @@
+checked columns: result, restarts, conflicts, decisions, propagations, conflict_literals
+instance                                           result         base_med_s  new_med_s  speedup  base_spread
+bmc-galileo-8.cnf                                  SATISFIABLE         0.138      0.136    1.015        1.013
+bmc-galileo-9.cnf                                  SATISFIABLE         0.164      0.164    1.001        1.116
+bmc-ibm-1.cnf                                      SATISFIABLE         0.050      0.050    0.994        1.012
+bmc-ibm-10.cnf                                     SATISFIABLE         0.217      0.217    1.003        1.121
+bmc-ibm-11.cnf                                     SATISFIABLE         0.152      0.150    1.010        1.029
+bmc-ibm-12.cnf                                     SATISFIABLE         0.439      0.430    1.021        1.018
+bmc-ibm-13.cnf                                     SATISFIABLE         0.401      0.417    0.961        1.035
+bmc-ibm-2.cnf                                      SATISFIABLE         0.006      0.006    1.000        1.286
+bmc-ibm-3.cnf                                      SATISFIABLE         0.057      0.058    0.995        1.005
+bmc-ibm-4.cnf                                      SATISFIABLE         0.078      0.079    0.994        1.015
+bmc-ibm-5.cnf                                      SATISFIABLE         0.024      0.024    1.000        1.102
+bmc-ibm-6.cnf                                      SATISFIABLE         0.211      0.211    0.999        1.005
+bmc-ibm-7.cnf                                      SATISFIABLE         0.020      0.020    1.000        1.056
+
+instances compared:            13
+sum of base medians:           1.958 s
+sum of new medians:            1.962 s
+geometric mean speedup:        0.999
+slowest base instance:         bmc-ibm-12.cnf (0.439 s) speedup 1.021
+base run-to-run spread:        median 1.029  max 1.286 (bmc-ibm-2.cnf)

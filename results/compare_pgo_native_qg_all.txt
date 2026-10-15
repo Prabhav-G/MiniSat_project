@@ -1,0 +1,31 @@
+checked columns: result, restarts, conflicts, decisions, propagations, conflict_literals
+instance                                           result         base_med_s  new_med_s  speedup  base_spread
+qg1-07.cnf                                         SATISFIABLE         0.009      0.008    1.060        1.253
+qg1-08.cnf                                         SATISFIABLE         0.160      0.162    0.985        1.061
+qg2-07.cnf                                         SATISFIABLE         0.009      0.010    0.939        3.097
+qg2-08.cnf                                         SATISFIABLE         0.033      0.033    0.988        1.099
+qg3-08.cnf                                         SATISFIABLE         0.006      0.006    1.018        1.161
+qg3-09.cnf                                         UNSATISFIABLE       1.450      1.490    0.973        1.437
+qg4-08.cnf                                         UNSATISFIABLE       0.013      0.013    1.039        1.125
+qg4-09.cnf                                         SATISFIABLE         0.008      0.008    0.988        1.299
+qg5-09.cnf                                         UNSATISFIABLE       0.012      0.012    1.009        1.070
+qg5-10.cnf                                         UNSATISFIABLE       0.018      0.018    1.023        1.045
+qg5-11.cnf                                         SATISFIABLE         0.027      0.026    1.027        1.121
+qg5-12.cnf                                         UNSATISFIABLE       0.062      0.062    0.987        1.115
+qg5-13.cnf                                         UNSATISFIABLE       1.943      1.962    0.990        1.081
+qg6-09.cnf                                         SATISFIABLE         0.011      0.012    0.958        1.625
+qg6-10.cnf                                         UNSATISFIABLE       0.021      0.021    0.986        1.086
+qg6-11.cnf                                         UNSATISFIABLE       0.081      0.081    1.000        1.134
+qg6-12.cnf                                         UNSATISFIABLE       0.428      0.402    1.065        1.121
+qg7-09.cnf                                         SATISFIABLE         0.009      0.009    1.011        1.220
+qg7-10.cnf                                         UNSATISFIABLE       0.015      0.015    1.007        1.090
+qg7-11.cnf                                         UNSATISFIABLE       0.034      0.034    1.003        1.059
+qg7-12.cnf                                         UNSATISFIABLE       0.132      0.133    0.992        1.107
+qg7-13.cnf                                         SATISFIABLE         0.050      0.049    1.020        1.140
+
+instances compared:            22
+sum of base medians:           4.530 s
+sum of new medians:            4.566 s
+geometric mean speedup:        1.003
+slowest base instance:         qg5-13.cnf (1.943 s) speedup 0.990
+base run-to-run spread:        median 1.121  max 3.097 (qg2-07.cnf)
