@@ -1,0 +1,114 @@
+#!/usr/bin/env python3
+"""Compare two harness.py CSV files (a base and a new solver build).
+
+For every instance the result and the conflicts / decisions / propagations
+counters must be identical across all repeats of both files; every
+mismatch is listed and makes the script exit with status 1.  The script
+then reports the median-time speedup (base / new) per instance, the
+geometric mean speedup, the speedup of the slowest base instance and the
+run-to-run spread (max / min of the repeat times) of the base file.
+"""
+
+import argparse
+import csv
+import math
+import statistics
+import sys
+from collections import defaultdict
+
+COUNTERS = ["result", "conflicts", "decisions", "propagations"]
+
+
+def load(path):
+    """Read a harness CSV into {instance: [row dict, ...]} with float times."""
+    runs = defaultdict(list)
+    with open(path, newline="") as fh:
+        for row in csv.DictReader(fh):
+            row["time"] = float(row["time"])
+            runs[row["instance"]].append(row)
+    return runs
+
+
+def signature(row):
+    """The (result, conflicts, decisions, propagations) tuple of one run."""
+    return tuple(row[name] for name in COUNTERS)
+
+
+def find_mismatches(base, new):
+    """Return a list of human-readable mismatch descriptions.
+
+    A mismatch is an instance present in only one file, an instance whose
+    repeats disagree within one file, or an instance whose signature
+    differs between the two files.
+    """
+    mismatches = []
+    for name in sorted(set(base) | set(new)):
+        if name not in base or name not in new:
+            mismatches.append("%s: missing from %s" % (name, "base" if name not in base else "new"))
+            continue
+        signatures = {}
+        for label, rows in (("base", base[name]), ("new", new[name])):
+            distinct = sorted({signature(r) for r in rows})
+            if len(distinct) > 1:
+                mismatches.append("%s: %s repeats disagree: %s" % (name, label, distinct))
+            signatures[label] = distinct[0]
+        if signatures["base"] != signatures["new"]:
+            mismatches.append("%s: base %s != new %s" % (name, signatures["base"], signatures["new"]))
+    return mismatches
+
+
+def main():
+    """Parse arguments, check counters, print the speedup report."""
+    parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    parser.add_argument("--base", required=True, help="harness CSV of the base binary")
+    parser.add_argument("--new", required=True, help="harness CSV of the new binary")
+    args = parser.parse_args()
+
+    base = load(args.base)
+    new = load(args.new)
+    if not base or not new:
+        sys.exit("empty CSV: %s" % (args.base if not base else args.new))
+
+    mismatches = find_mismatches(base, new)
+    if mismatches:
+        print("MISMATCHES (%d):" % len(mismatches))
+        for line in mismatches:
+            print("  " + line)
+        print()
+
+    rows = []
+    for name in sorted(set(base) & set(new)):
+        base_times = [r["time"] for r in base[name]]
+        new_times = [r["time"] for r in new[name]]
+        base_median = statistics.median(base_times)
+        new_median = statistics.median(new_times)
+        speedup = base_median / new_median if new_median > 0 else math.inf
+        spread = max(base_times) / min(base_times) if min(base_times) > 0 else math.inf
+        rows.append((name, base[name][0]["result"], base_median, new_median, speedup, spread))
+
+    print("%-50s %-14s %10s %10s %8s %12s" % ("instance", "result", "base_med_s", "new_med_s", "speedup", "base_spread"))
+    for name, result, base_median, new_median, speedup, spread in rows:
+        print("%-50s %-14s %10.3f %10.3f %8.3f %12.3f" % (name, result, base_median, new_median, speedup, spread))
+    print()
+
+    if rows:
+        finite = [r[4] for r in rows if math.isfinite(r[4]) and r[4] > 0]
+        geomean = math.exp(sum(math.log(s) for s in finite) / len(finite)) if finite else math.nan
+        slowest = max(rows, key=lambda r: r[2])
+        spreads = [r[5] for r in rows]
+        print("instances compared:            %d" % len(rows))
+        print("sum of base medians:           %.3f s" % sum(r[2] for r in rows))
+        print("sum of new medians:            %.3f s" % sum(r[3] for r in rows))
+        excluded = len(rows) - len(finite)
+        print("geometric mean speedup:        %.3f%s"
+              % (geomean, "  (excluding %d instance(s) with a zero median time)" % excluded if excluded else ""))
+        print("slowest base instance:         %s (%.3f s) speedup %.3f" % (slowest[0], slowest[2], slowest[4]))
+        print("base run-to-run spread:        median %.3f  max %.3f (%s)"
+              % (statistics.median(spreads), max(spreads), max(rows, key=lambda r: r[5])[0]))
+
+    if mismatches:
+        sys.exit("error: %d mismatch(es) in result or counters" % len(mismatches))
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,3 @@
+37dc6c67e2af26379d88ce349eb9c4c6160e8543
+Upstream commit above plus baseline-build-fix.patch (macOS clang compatibility only, no behavior change). Using the 'minisat' binary (with simplification), not minisat_core.
+Patched baseline commit (in original/): f6a0cf534c943f9f1e155b844ec58c02d07bc0a9
