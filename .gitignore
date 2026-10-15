@@ -5,3 +5,6 @@ original/
 optimized/
 tmp/
 __pycache__/
+tools/
+work/
+out/
