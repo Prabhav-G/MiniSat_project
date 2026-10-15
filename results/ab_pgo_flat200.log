@@ -1,0 +1,818 @@
+[1/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-1.cnf run 1 A: SATISFIABLE 0.008s
+[1/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-1.cnf run 1 B: SATISFIABLE 0.139s
+[1/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-1.cnf run 2 A: SATISFIABLE 0.007s
+[1/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-1.cnf run 2 B: SATISFIABLE 0.006s
+[1/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-1.cnf run 3 A: SATISFIABLE 0.006s
+[1/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-1.cnf run 3 B: SATISFIABLE 0.006s
+[2/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-10.cnf run 1 A: SATISFIABLE 0.013s
+[2/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-10.cnf run 1 B: SATISFIABLE 0.012s
+[2/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-10.cnf run 2 A: SATISFIABLE 0.012s
+[2/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-10.cnf run 2 B: SATISFIABLE 0.012s
+[2/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-10.cnf run 3 A: SATISFIABLE 0.012s
+[2/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-10.cnf run 3 B: SATISFIABLE 0.012s
+[3/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-100.cnf run 1 A: SATISFIABLE 0.006s
+[3/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-100.cnf run 1 B: SATISFIABLE 0.005s
+[3/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-100.cnf run 2 A: SATISFIABLE 0.005s
+[3/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-100.cnf run 2 B: SATISFIABLE 0.005s
+[3/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-100.cnf run 3 A: SATISFIABLE 0.005s
+[3/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-100.cnf run 3 B: SATISFIABLE 0.005s
+[4/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-11.cnf run 1 A: SATISFIABLE 0.004s
+[4/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-11.cnf run 1 B: SATISFIABLE 0.004s
+[4/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-11.cnf run 2 A: SATISFIABLE 0.004s
+[4/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-11.cnf run 2 B: SATISFIABLE 0.004s
+[4/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-11.cnf run 3 A: SATISFIABLE 0.004s
+[4/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-11.cnf run 3 B: SATISFIABLE 0.004s
+[5/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-12.cnf run 1 A: SATISFIABLE 0.009s
+[5/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-12.cnf run 1 B: SATISFIABLE 0.010s
+[5/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-12.cnf run 2 A: SATISFIABLE 0.009s
+[5/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-12.cnf run 2 B: SATISFIABLE 0.010s
+[5/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-12.cnf run 3 A: SATISFIABLE 0.009s
+[5/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-12.cnf run 3 B: SATISFIABLE 0.010s
+[6/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-13.cnf run 1 A: SATISFIABLE 0.005s
+[6/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-13.cnf run 1 B: SATISFIABLE 0.005s
+[6/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-13.cnf run 2 A: SATISFIABLE 0.005s
+[6/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-13.cnf run 2 B: SATISFIABLE 0.004s
+[6/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-13.cnf run 3 A: SATISFIABLE 0.004s
+[6/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-13.cnf run 3 B: SATISFIABLE 0.005s
+[7/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-14.cnf run 1 A: SATISFIABLE 0.005s
+[7/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-14.cnf run 1 B: SATISFIABLE 0.004s
+[7/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-14.cnf run 2 A: SATISFIABLE 0.004s
+[7/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-14.cnf run 2 B: SATISFIABLE 0.004s
+[7/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-14.cnf run 3 A: SATISFIABLE 0.004s
+[7/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-14.cnf run 3 B: SATISFIABLE 0.004s
+[8/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-15.cnf run 1 A: SATISFIABLE 0.007s
+[8/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-15.cnf run 1 B: SATISFIABLE 0.006s
+[8/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-15.cnf run 2 A: SATISFIABLE 0.006s
+[8/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-15.cnf run 2 B: SATISFIABLE 0.006s
+[8/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-15.cnf run 3 A: SATISFIABLE 0.006s
+[8/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-15.cnf run 3 B: SATISFIABLE 0.006s
+[9/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-16.cnf run 1 A: SATISFIABLE 0.006s
+[9/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-16.cnf run 1 B: SATISFIABLE 0.006s
+[9/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-16.cnf run 2 A: SATISFIABLE 0.006s
+[9/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-16.cnf run 2 B: SATISFIABLE 0.006s
+[9/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-16.cnf run 3 A: SATISFIABLE 0.006s
+[9/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-16.cnf run 3 B: SATISFIABLE 0.006s
+[10/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-17.cnf run 1 A: SATISFIABLE 0.004s
+[10/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-17.cnf run 1 B: SATISFIABLE 0.004s
+[10/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-17.cnf run 2 A: SATISFIABLE 0.004s
+[10/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-17.cnf run 2 B: SATISFIABLE 0.004s
+[10/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-17.cnf run 3 A: SATISFIABLE 0.004s
+[10/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-17.cnf run 3 B: SATISFIABLE 0.004s
+[11/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-18.cnf run 1 A: SATISFIABLE 0.009s
+[11/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-18.cnf run 1 B: SATISFIABLE 0.007s
+[11/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-18.cnf run 2 A: SATISFIABLE 0.007s
+[11/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-18.cnf run 2 B: SATISFIABLE 0.007s
+[11/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-18.cnf run 3 A: SATISFIABLE 0.007s
+[11/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-18.cnf run 3 B: SATISFIABLE 0.007s
+[12/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-19.cnf run 1 A: SATISFIABLE 0.009s
+[12/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-19.cnf run 1 B: SATISFIABLE 0.009s
+[12/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-19.cnf run 2 A: SATISFIABLE 0.009s
+[12/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-19.cnf run 2 B: SATISFIABLE 0.009s
+[12/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-19.cnf run 3 A: SATISFIABLE 0.009s
+[12/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-19.cnf run 3 B: SATISFIABLE 0.009s
+[13/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-2.cnf run 1 A: SATISFIABLE 0.007s
+[13/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-2.cnf run 1 B: SATISFIABLE 0.005s
+[13/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-2.cnf run 2 A: SATISFIABLE 0.005s
+[13/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-2.cnf run 2 B: SATISFIABLE 0.005s
+[13/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-2.cnf run 3 A: SATISFIABLE 0.005s
+[13/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-2.cnf run 3 B: SATISFIABLE 0.006s
+[14/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-20.cnf run 1 A: SATISFIABLE 0.007s
+[14/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-20.cnf run 1 B: SATISFIABLE 0.007s
+[14/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-20.cnf run 2 A: SATISFIABLE 0.007s
+[14/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-20.cnf run 2 B: SATISFIABLE 0.007s
+[14/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-20.cnf run 3 A: SATISFIABLE 0.007s
+[14/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-20.cnf run 3 B: SATISFIABLE 0.007s
+[15/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-21.cnf run 1 A: SATISFIABLE 0.005s
+[15/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-21.cnf run 1 B: SATISFIABLE 0.005s
+[15/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-21.cnf run 2 A: SATISFIABLE 0.005s
+[15/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-21.cnf run 2 B: SATISFIABLE 0.005s
+[15/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-21.cnf run 3 A: SATISFIABLE 0.005s
+[15/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-21.cnf run 3 B: SATISFIABLE 0.005s
+[16/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-22.cnf run 1 A: SATISFIABLE 0.006s
+[16/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-22.cnf run 1 B: SATISFIABLE 0.006s
+[16/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-22.cnf run 2 A: SATISFIABLE 0.006s
+[16/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-22.cnf run 2 B: SATISFIABLE 0.006s
+[16/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-22.cnf run 3 A: SATISFIABLE 0.006s
+[16/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-22.cnf run 3 B: SATISFIABLE 0.006s
+[17/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-23.cnf run 1 A: SATISFIABLE 0.007s
+[17/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-23.cnf run 1 B: SATISFIABLE 0.007s
+[17/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-23.cnf run 2 A: SATISFIABLE 0.007s
+[17/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-23.cnf run 2 B: SATISFIABLE 0.007s
+[17/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-23.cnf run 3 A: SATISFIABLE 0.007s
+[17/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-23.cnf run 3 B: SATISFIABLE 0.007s
+[18/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-24.cnf run 1 A: SATISFIABLE 0.005s
+[18/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-24.cnf run 1 B: SATISFIABLE 0.005s
+[18/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-24.cnf run 2 A: SATISFIABLE 0.005s
+[18/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-24.cnf run 2 B: SATISFIABLE 0.005s
+[18/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-24.cnf run 3 A: SATISFIABLE 0.005s
+[18/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-24.cnf run 3 B: SATISFIABLE 0.005s
+[19/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-25.cnf run 1 A: SATISFIABLE 0.010s
+[19/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-25.cnf run 1 B: SATISFIABLE 0.010s
+[19/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-25.cnf run 2 A: SATISFIABLE 0.010s
+[19/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-25.cnf run 2 B: SATISFIABLE 0.011s
+[19/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-25.cnf run 3 A: SATISFIABLE 0.011s
+[19/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-25.cnf run 3 B: SATISFIABLE 0.011s
+[20/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-26.cnf run 1 A: SATISFIABLE 0.024s
+[20/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-26.cnf run 1 B: SATISFIABLE 0.025s
+[20/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-26.cnf run 2 A: SATISFIABLE 0.024s
+[20/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-26.cnf run 2 B: SATISFIABLE 0.025s
+[20/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-26.cnf run 3 A: SATISFIABLE 0.024s
+[20/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-26.cnf run 3 B: SATISFIABLE 0.025s
+[21/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-27.cnf run 1 A: SATISFIABLE 0.009s
+[21/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-27.cnf run 1 B: SATISFIABLE 0.009s
+[21/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-27.cnf run 2 A: SATISFIABLE 0.009s
+[21/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-27.cnf run 2 B: SATISFIABLE 0.009s
+[21/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-27.cnf run 3 A: SATISFIABLE 0.009s
+[21/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-27.cnf run 3 B: SATISFIABLE 0.009s
+[22/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-28.cnf run 1 A: SATISFIABLE 0.006s
+[22/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-28.cnf run 1 B: SATISFIABLE 0.004s
+[22/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-28.cnf run 2 A: SATISFIABLE 0.004s
+[22/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-28.cnf run 2 B: SATISFIABLE 0.004s
+[22/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-28.cnf run 3 A: SATISFIABLE 0.004s
+[22/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-28.cnf run 3 B: SATISFIABLE 0.004s
+[23/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-29.cnf run 1 A: SATISFIABLE 0.005s
+[23/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-29.cnf run 1 B: SATISFIABLE 0.004s
+[23/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-29.cnf run 2 A: SATISFIABLE 0.005s
+[23/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-29.cnf run 2 B: SATISFIABLE 0.004s
+[23/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-29.cnf run 3 A: SATISFIABLE 0.004s
+[23/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-29.cnf run 3 B: SATISFIABLE 0.004s
+[24/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-3.cnf run 1 A: SATISFIABLE 0.013s
+[24/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-3.cnf run 1 B: SATISFIABLE 0.015s
+[24/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-3.cnf run 2 A: SATISFIABLE 0.012s
+[24/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-3.cnf run 2 B: SATISFIABLE 0.011s
+[24/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-3.cnf run 3 A: SATISFIABLE 0.012s
+[24/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-3.cnf run 3 B: SATISFIABLE 0.011s
+[25/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-30.cnf run 1 A: SATISFIABLE 0.006s
+[25/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-30.cnf run 1 B: SATISFIABLE 0.005s
+[25/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-30.cnf run 2 A: SATISFIABLE 0.005s
+[25/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-30.cnf run 2 B: SATISFIABLE 0.005s
+[25/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-30.cnf run 3 A: SATISFIABLE 0.005s
+[25/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-30.cnf run 3 B: SATISFIABLE 0.005s
+[26/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-31.cnf run 1 A: SATISFIABLE 0.005s
+[26/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-31.cnf run 1 B: SATISFIABLE 0.004s
+[26/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-31.cnf run 2 A: SATISFIABLE 0.004s
+[26/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-31.cnf run 2 B: SATISFIABLE 0.004s
+[26/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-31.cnf run 3 A: SATISFIABLE 0.004s
+[26/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-31.cnf run 3 B: SATISFIABLE 0.004s
+[27/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-32.cnf run 1 A: SATISFIABLE 0.005s
+[27/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-32.cnf run 1 B: SATISFIABLE 0.005s
+[27/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-32.cnf run 2 A: SATISFIABLE 0.005s
+[27/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-32.cnf run 2 B: SATISFIABLE 0.006s
+[27/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-32.cnf run 3 A: SATISFIABLE 0.007s
+[27/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-32.cnf run 3 B: SATISFIABLE 0.006s
+[28/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-33.cnf run 1 A: SATISFIABLE 0.006s
+[28/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-33.cnf run 1 B: SATISFIABLE 0.005s
+[28/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-33.cnf run 2 A: SATISFIABLE 0.004s
+[28/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-33.cnf run 2 B: SATISFIABLE 0.004s
+[28/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-33.cnf run 3 A: SATISFIABLE 0.004s
+[28/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-33.cnf run 3 B: SATISFIABLE 0.004s
+[29/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-34.cnf run 1 A: SATISFIABLE 0.004s
+[29/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-34.cnf run 1 B: SATISFIABLE 0.004s
+[29/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-34.cnf run 2 A: SATISFIABLE 0.004s
+[29/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-34.cnf run 2 B: SATISFIABLE 0.004s
+[29/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-34.cnf run 3 A: SATISFIABLE 0.004s
+[29/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-34.cnf run 3 B: SATISFIABLE 0.004s
+[30/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-35.cnf run 1 A: SATISFIABLE 0.004s
+[30/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-35.cnf run 1 B: SATISFIABLE 0.005s
+[30/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-35.cnf run 2 A: SATISFIABLE 0.005s
+[30/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-35.cnf run 2 B: SATISFIABLE 0.005s
+[30/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-35.cnf run 3 A: SATISFIABLE 0.005s
+[30/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-35.cnf run 3 B: SATISFIABLE 0.005s
+[31/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-36.cnf run 1 A: SATISFIABLE 0.010s
+[31/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-36.cnf run 1 B: SATISFIABLE 0.010s
+[31/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-36.cnf run 2 A: SATISFIABLE 0.010s
+[31/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-36.cnf run 2 B: SATISFIABLE 0.010s
+[31/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-36.cnf run 3 A: SATISFIABLE 0.010s
+[31/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-36.cnf run 3 B: SATISFIABLE 0.011s
+[32/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-37.cnf run 1 A: SATISFIABLE 0.007s
+[32/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-37.cnf run 1 B: SATISFIABLE 0.007s
+[32/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-37.cnf run 2 A: SATISFIABLE 0.007s
+[32/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-37.cnf run 2 B: SATISFIABLE 0.007s
+[32/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-37.cnf run 3 A: SATISFIABLE 0.007s
+[32/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-37.cnf run 3 B: SATISFIABLE 0.007s
+[33/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-38.cnf run 1 A: SATISFIABLE 0.005s
+[33/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-38.cnf run 1 B: SATISFIABLE 0.005s
+[33/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-38.cnf run 2 A: SATISFIABLE 0.005s
+[33/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-38.cnf run 2 B: SATISFIABLE 0.005s
+[33/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-38.cnf run 3 A: SATISFIABLE 0.005s
+[33/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-38.cnf run 3 B: SATISFIABLE 0.005s
+[34/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-39.cnf run 1 A: SATISFIABLE 0.006s
+[34/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-39.cnf run 1 B: SATISFIABLE 0.006s
+[34/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-39.cnf run 2 A: SATISFIABLE 0.006s
+[34/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-39.cnf run 2 B: SATISFIABLE 0.006s
+[34/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-39.cnf run 3 A: SATISFIABLE 0.006s
+[34/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-39.cnf run 3 B: SATISFIABLE 0.006s
+[35/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-4.cnf run 1 A: SATISFIABLE 0.005s
+[35/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-4.cnf run 1 B: SATISFIABLE 0.005s
+[35/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-4.cnf run 2 A: SATISFIABLE 0.005s
+[35/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-4.cnf run 2 B: SATISFIABLE 0.005s
+[35/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-4.cnf run 3 A: SATISFIABLE 0.005s
+[35/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-4.cnf run 3 B: SATISFIABLE 0.005s
+[36/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-40.cnf run 1 A: SATISFIABLE 0.005s
+[36/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-40.cnf run 1 B: SATISFIABLE 0.004s
+[36/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-40.cnf run 2 A: SATISFIABLE 0.004s
+[36/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-40.cnf run 2 B: SATISFIABLE 0.004s
+[36/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-40.cnf run 3 A: SATISFIABLE 0.004s
+[36/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-40.cnf run 3 B: SATISFIABLE 0.004s
+[37/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-41.cnf run 1 A: SATISFIABLE 0.004s
+[37/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-41.cnf run 1 B: SATISFIABLE 0.004s
+[37/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-41.cnf run 2 A: SATISFIABLE 0.004s
+[37/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-41.cnf run 2 B: SATISFIABLE 0.004s
+[37/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-41.cnf run 3 A: SATISFIABLE 0.004s
+[37/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-41.cnf run 3 B: SATISFIABLE 0.004s
+[38/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-42.cnf run 1 A: SATISFIABLE 0.005s
+[38/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-42.cnf run 1 B: SATISFIABLE 0.005s
+[38/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-42.cnf run 2 A: SATISFIABLE 0.006s
+[38/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-42.cnf run 2 B: SATISFIABLE 0.005s
+[38/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-42.cnf run 3 A: SATISFIABLE 0.005s
+[38/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-42.cnf run 3 B: SATISFIABLE 0.005s
+[39/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-43.cnf run 1 A: SATISFIABLE 0.006s
+[39/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-43.cnf run 1 B: SATISFIABLE 0.006s
+[39/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-43.cnf run 2 A: SATISFIABLE 0.006s
+[39/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-43.cnf run 2 B: SATISFIABLE 0.006s
+[39/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-43.cnf run 3 A: SATISFIABLE 0.006s
+[39/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-43.cnf run 3 B: SATISFIABLE 0.006s
+[40/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-44.cnf run 1 A: SATISFIABLE 0.004s
+[40/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-44.cnf run 1 B: SATISFIABLE 0.004s
+[40/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-44.cnf run 2 A: SATISFIABLE 0.004s
+[40/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-44.cnf run 2 B: SATISFIABLE 0.004s
+[40/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-44.cnf run 3 A: SATISFIABLE 0.004s
+[40/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-44.cnf run 3 B: SATISFIABLE 0.004s
+[41/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-45.cnf run 1 A: SATISFIABLE 0.004s
+[41/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-45.cnf run 1 B: SATISFIABLE 0.004s
+[41/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-45.cnf run 2 A: SATISFIABLE 0.004s
+[41/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-45.cnf run 2 B: SATISFIABLE 0.004s
+[41/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-45.cnf run 3 A: SATISFIABLE 0.004s
+[41/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-45.cnf run 3 B: SATISFIABLE 0.004s
+[42/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-46.cnf run 1 A: SATISFIABLE 0.005s
+[42/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-46.cnf run 1 B: SATISFIABLE 0.004s
+[42/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-46.cnf run 2 A: SATISFIABLE 0.004s
+[42/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-46.cnf run 2 B: SATISFIABLE 0.004s
+[42/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-46.cnf run 3 A: SATISFIABLE 0.004s
+[42/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-46.cnf run 3 B: SATISFIABLE 0.004s
+[43/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-47.cnf run 1 A: SATISFIABLE 0.008s
+[43/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-47.cnf run 1 B: SATISFIABLE 0.008s
+[43/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-47.cnf run 2 A: SATISFIABLE 0.008s
+[43/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-47.cnf run 2 B: SATISFIABLE 0.008s
+[43/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-47.cnf run 3 A: SATISFIABLE 0.007s
+[43/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-47.cnf run 3 B: SATISFIABLE 0.008s
+[44/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-48.cnf run 1 A: SATISFIABLE 0.009s
+[44/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-48.cnf run 1 B: SATISFIABLE 0.009s
+[44/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-48.cnf run 2 A: SATISFIABLE 0.008s
+[44/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-48.cnf run 2 B: SATISFIABLE 0.008s
+[44/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-48.cnf run 3 A: SATISFIABLE 0.008s
+[44/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-48.cnf run 3 B: SATISFIABLE 0.008s
+[45/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-49.cnf run 1 A: SATISFIABLE 0.004s
+[45/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-49.cnf run 1 B: SATISFIABLE 0.004s
+[45/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-49.cnf run 2 A: SATISFIABLE 0.004s
+[45/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-49.cnf run 2 B: SATISFIABLE 0.004s
+[45/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-49.cnf run 3 A: SATISFIABLE 0.004s
+[45/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-49.cnf run 3 B: SATISFIABLE 0.004s
+[46/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-5.cnf run 1 A: SATISFIABLE 0.005s
+[46/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-5.cnf run 1 B: SATISFIABLE 0.005s
+[46/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-5.cnf run 2 A: SATISFIABLE 0.005s
+[46/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-5.cnf run 2 B: SATISFIABLE 0.005s
+[46/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-5.cnf run 3 A: SATISFIABLE 0.005s
+[46/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-5.cnf run 3 B: SATISFIABLE 0.005s
+[47/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-50.cnf run 1 A: SATISFIABLE 0.005s
+[47/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-50.cnf run 1 B: SATISFIABLE 0.004s
+[47/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-50.cnf run 2 A: SATISFIABLE 0.004s
+[47/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-50.cnf run 2 B: SATISFIABLE 0.004s
+[47/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-50.cnf run 3 A: SATISFIABLE 0.004s
+[47/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-50.cnf run 3 B: SATISFIABLE 0.004s
+[48/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-51.cnf run 1 A: SATISFIABLE 0.005s
+[48/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-51.cnf run 1 B: SATISFIABLE 0.005s
+[48/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-51.cnf run 2 A: SATISFIABLE 0.005s
+[48/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-51.cnf run 2 B: SATISFIABLE 0.005s
+[48/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-51.cnf run 3 A: SATISFIABLE 0.005s
+[48/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-51.cnf run 3 B: SATISFIABLE 0.005s
+[49/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-52.cnf run 1 A: SATISFIABLE 0.011s
+[49/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-52.cnf run 1 B: SATISFIABLE 0.010s
+[49/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-52.cnf run 2 A: SATISFIABLE 0.010s
+[49/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-52.cnf run 2 B: SATISFIABLE 0.011s
+[49/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-52.cnf run 3 A: SATISFIABLE 0.010s
+[49/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-52.cnf run 3 B: SATISFIABLE 0.010s
+[50/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-53.cnf run 1 A: SATISFIABLE 0.005s
+[50/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-53.cnf run 1 B: SATISFIABLE 0.004s
+[50/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-53.cnf run 2 A: SATISFIABLE 0.004s
+[50/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-53.cnf run 2 B: SATISFIABLE 0.004s
+[50/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-53.cnf run 3 A: SATISFIABLE 0.004s
+[50/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-53.cnf run 3 B: SATISFIABLE 0.004s
+[51/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-54.cnf run 1 A: SATISFIABLE 0.007s
+[51/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-54.cnf run 1 B: SATISFIABLE 0.006s
+[51/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-54.cnf run 2 A: SATISFIABLE 0.006s
+[51/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-54.cnf run 2 B: SATISFIABLE 0.006s
+[51/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-54.cnf run 3 A: SATISFIABLE 0.006s
+[51/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-54.cnf run 3 B: SATISFIABLE 0.006s
+[52/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-55.cnf run 1 A: SATISFIABLE 0.009s
+[52/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-55.cnf run 1 B: SATISFIABLE 0.009s
+[52/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-55.cnf run 2 A: SATISFIABLE 0.009s
+[52/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-55.cnf run 2 B: SATISFIABLE 0.009s
+[52/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-55.cnf run 3 A: SATISFIABLE 0.009s
+[52/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-55.cnf run 3 B: SATISFIABLE 0.009s
+[53/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-56.cnf run 1 A: SATISFIABLE 0.007s
+[53/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-56.cnf run 1 B: SATISFIABLE 0.007s
+[53/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-56.cnf run 2 A: SATISFIABLE 0.007s
+[53/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-56.cnf run 2 B: SATISFIABLE 0.007s
+[53/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-56.cnf run 3 A: SATISFIABLE 0.007s
+[53/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-56.cnf run 3 B: SATISFIABLE 0.007s
+[54/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-57.cnf run 1 A: SATISFIABLE 0.005s
+[54/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-57.cnf run 1 B: SATISFIABLE 0.005s
+[54/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-57.cnf run 2 A: SATISFIABLE 0.005s
+[54/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-57.cnf run 2 B: SATISFIABLE 0.004s
+[54/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-57.cnf run 3 A: SATISFIABLE 0.004s
+[54/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-57.cnf run 3 B: SATISFIABLE 0.005s
+[55/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-58.cnf run 1 A: SATISFIABLE 0.007s
+[55/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-58.cnf run 1 B: SATISFIABLE 0.007s
+[55/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-58.cnf run 2 A: SATISFIABLE 0.007s
+[55/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-58.cnf run 2 B: SATISFIABLE 0.007s
+[55/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-58.cnf run 3 A: SATISFIABLE 0.007s
+[55/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-58.cnf run 3 B: SATISFIABLE 0.007s
+[56/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-59.cnf run 1 A: SATISFIABLE 0.014s
+[56/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-59.cnf run 1 B: SATISFIABLE 0.014s
+[56/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-59.cnf run 2 A: SATISFIABLE 0.014s
+[56/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-59.cnf run 2 B: SATISFIABLE 0.014s
+[56/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-59.cnf run 3 A: SATISFIABLE 0.014s
+[56/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-59.cnf run 3 B: SATISFIABLE 0.014s
+[57/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-6.cnf run 1 A: SATISFIABLE 0.008s
+[57/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-6.cnf run 1 B: SATISFIABLE 0.007s
+[57/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-6.cnf run 2 A: SATISFIABLE 0.007s
+[57/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-6.cnf run 2 B: SATISFIABLE 0.007s
+[57/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-6.cnf run 3 A: SATISFIABLE 0.007s
+[57/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-6.cnf run 3 B: SATISFIABLE 0.007s
+[58/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-60.cnf run 1 A: SATISFIABLE 0.005s
+[58/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-60.cnf run 1 B: SATISFIABLE 0.004s
+[58/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-60.cnf run 2 A: SATISFIABLE 0.004s
+[58/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-60.cnf run 2 B: SATISFIABLE 0.004s
+[58/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-60.cnf run 3 A: SATISFIABLE 0.004s
+[58/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-60.cnf run 3 B: SATISFIABLE 0.004s
+[59/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-61.cnf run 1 A: SATISFIABLE 0.014s
+[59/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-61.cnf run 1 B: SATISFIABLE 0.014s
+[59/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-61.cnf run 2 A: SATISFIABLE 0.014s
+[59/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-61.cnf run 2 B: SATISFIABLE 0.014s
+[59/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-61.cnf run 3 A: SATISFIABLE 0.014s
+[59/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-61.cnf run 3 B: SATISFIABLE 0.014s
+[60/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-62.cnf run 1 A: SATISFIABLE 0.006s
+[60/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-62.cnf run 1 B: SATISFIABLE 0.005s
+[60/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-62.cnf run 2 A: SATISFIABLE 0.005s
+[60/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-62.cnf run 2 B: SATISFIABLE 0.005s
+[60/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-62.cnf run 3 A: SATISFIABLE 0.005s
+[60/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-62.cnf run 3 B: SATISFIABLE 0.005s
+[61/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-63.cnf run 1 A: SATISFIABLE 0.004s
+[61/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-63.cnf run 1 B: SATISFIABLE 0.004s
+[61/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-63.cnf run 2 A: SATISFIABLE 0.004s
+[61/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-63.cnf run 2 B: SATISFIABLE 0.004s
+[61/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-63.cnf run 3 A: SATISFIABLE 0.004s
+[61/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-63.cnf run 3 B: SATISFIABLE 0.004s
+[62/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-64.cnf run 1 A: SATISFIABLE 0.007s
+[62/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-64.cnf run 1 B: SATISFIABLE 0.007s
+[62/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-64.cnf run 2 A: SATISFIABLE 0.007s
+[62/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-64.cnf run 2 B: SATISFIABLE 0.007s
+[62/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-64.cnf run 3 A: SATISFIABLE 0.007s
+[62/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-64.cnf run 3 B: SATISFIABLE 0.007s
+[63/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-65.cnf run 1 A: SATISFIABLE 0.007s
+[63/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-65.cnf run 1 B: SATISFIABLE 0.008s
+[63/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-65.cnf run 2 A: SATISFIABLE 0.007s
+[63/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-65.cnf run 2 B: SATISFIABLE 0.007s
+[63/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-65.cnf run 3 A: SATISFIABLE 0.014s
+[63/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-65.cnf run 3 B: SATISFIABLE 0.019s
+[64/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-66.cnf run 1 A: SATISFIABLE 0.010s
+[64/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-66.cnf run 1 B: SATISFIABLE 0.009s
+[64/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-66.cnf run 2 A: SATISFIABLE 0.009s
+[64/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-66.cnf run 2 B: SATISFIABLE 0.009s
+[64/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-66.cnf run 3 A: SATISFIABLE 0.009s
+[64/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-66.cnf run 3 B: SATISFIABLE 0.009s
+[65/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-67.cnf run 1 A: SATISFIABLE 0.005s
+[65/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-67.cnf run 1 B: SATISFIABLE 0.005s
+[65/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-67.cnf run 2 A: SATISFIABLE 0.005s
+[65/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-67.cnf run 2 B: SATISFIABLE 0.005s
+[65/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-67.cnf run 3 A: SATISFIABLE 0.004s
+[65/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-67.cnf run 3 B: SATISFIABLE 0.005s
+[66/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-68.cnf run 1 A: SATISFIABLE 0.005s
+[66/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-68.cnf run 1 B: SATISFIABLE 0.004s
+[66/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-68.cnf run 2 A: SATISFIABLE 0.004s
+[66/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-68.cnf run 2 B: SATISFIABLE 0.004s
+[66/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-68.cnf run 3 A: SATISFIABLE 0.004s
+[66/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-68.cnf run 3 B: SATISFIABLE 0.004s
+[67/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-69.cnf run 1 A: SATISFIABLE 0.004s
+[67/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-69.cnf run 1 B: SATISFIABLE 0.004s
+[67/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-69.cnf run 2 A: SATISFIABLE 0.003s
+[67/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-69.cnf run 2 B: SATISFIABLE 0.003s
+[67/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-69.cnf run 3 A: SATISFIABLE 0.003s
+[67/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-69.cnf run 3 B: SATISFIABLE 0.004s
+[68/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-7.cnf run 1 A: SATISFIABLE 0.013s
+[68/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-7.cnf run 1 B: SATISFIABLE 0.014s
+[68/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-7.cnf run 2 A: SATISFIABLE 0.013s
+[68/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-7.cnf run 2 B: SATISFIABLE 0.014s
+[68/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-7.cnf run 3 A: SATISFIABLE 0.013s
+[68/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-7.cnf run 3 B: SATISFIABLE 0.013s
+[69/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-70.cnf run 1 A: SATISFIABLE 0.005s
+[69/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-70.cnf run 1 B: SATISFIABLE 0.004s
+[69/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-70.cnf run 2 A: SATISFIABLE 0.004s
+[69/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-70.cnf run 2 B: SATISFIABLE 0.004s
+[69/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-70.cnf run 3 A: SATISFIABLE 0.004s
+[69/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-70.cnf run 3 B: SATISFIABLE 0.004s
+[70/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-71.cnf run 1 A: SATISFIABLE 0.008s
+[70/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-71.cnf run 1 B: SATISFIABLE 0.008s
+[70/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-71.cnf run 2 A: SATISFIABLE 0.008s
+[70/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-71.cnf run 2 B: SATISFIABLE 0.008s
+[70/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-71.cnf run 3 A: SATISFIABLE 0.008s
+[70/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-71.cnf run 3 B: SATISFIABLE 0.008s
+[71/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-72.cnf run 1 A: SATISFIABLE 0.006s
+[71/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-72.cnf run 1 B: SATISFIABLE 0.006s
+[71/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-72.cnf run 2 A: SATISFIABLE 0.006s
+[71/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-72.cnf run 2 B: SATISFIABLE 0.005s
+[71/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-72.cnf run 3 A: SATISFIABLE 0.006s
+[71/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-72.cnf run 3 B: SATISFIABLE 0.006s
+[72/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-73.cnf run 1 A: SATISFIABLE 0.004s
+[72/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-73.cnf run 1 B: SATISFIABLE 0.004s
+[72/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-73.cnf run 2 A: SATISFIABLE 0.004s
+[72/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-73.cnf run 2 B: SATISFIABLE 0.004s
+[72/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-73.cnf run 3 A: SATISFIABLE 0.004s
+[72/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-73.cnf run 3 B: SATISFIABLE 0.004s
+[73/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-74.cnf run 1 A: SATISFIABLE 0.023s
+[73/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-74.cnf run 1 B: SATISFIABLE 0.023s
+[73/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-74.cnf run 2 A: SATISFIABLE 0.023s
+[73/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-74.cnf run 2 B: SATISFIABLE 0.023s
+[73/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-74.cnf run 3 A: SATISFIABLE 0.022s
+[73/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-74.cnf run 3 B: SATISFIABLE 0.023s
+[74/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-75.cnf run 1 A: SATISFIABLE 0.005s
+[74/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-75.cnf run 1 B: SATISFIABLE 0.004s
+[74/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-75.cnf run 2 A: SATISFIABLE 0.005s
+[74/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-75.cnf run 2 B: SATISFIABLE 0.005s
+[74/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-75.cnf run 3 A: SATISFIABLE 0.004s
+[74/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-75.cnf run 3 B: SATISFIABLE 0.004s
+[75/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-76.cnf run 1 A: SATISFIABLE 0.005s
+[75/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-76.cnf run 1 B: SATISFIABLE 0.005s
+[75/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-76.cnf run 2 A: SATISFIABLE 0.005s
+[75/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-76.cnf run 2 B: SATISFIABLE 0.005s
+[75/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-76.cnf run 3 A: SATISFIABLE 0.005s
+[75/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-76.cnf run 3 B: SATISFIABLE 0.005s
+[76/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-77.cnf run 1 A: SATISFIABLE 0.007s
+[76/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-77.cnf run 1 B: SATISFIABLE 0.006s
+[76/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-77.cnf run 2 A: SATISFIABLE 0.006s
+[76/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-77.cnf run 2 B: SATISFIABLE 0.006s
+[76/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-77.cnf run 3 A: SATISFIABLE 0.006s
+[76/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-77.cnf run 3 B: SATISFIABLE 0.007s
+[77/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-78.cnf run 1 A: SATISFIABLE 0.011s
+[77/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-78.cnf run 1 B: SATISFIABLE 0.011s
+[77/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-78.cnf run 2 A: SATISFIABLE 0.011s
+[77/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-78.cnf run 2 B: SATISFIABLE 0.011s
+[77/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-78.cnf run 3 A: SATISFIABLE 0.011s
+[77/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-78.cnf run 3 B: SATISFIABLE 0.011s
+[78/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-79.cnf run 1 A: SATISFIABLE 0.007s
+[78/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-79.cnf run 1 B: SATISFIABLE 0.007s
+[78/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-79.cnf run 2 A: SATISFIABLE 0.007s
+[78/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-79.cnf run 2 B: SATISFIABLE 0.007s
+[78/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-79.cnf run 3 A: SATISFIABLE 0.007s
+[78/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-79.cnf run 3 B: SATISFIABLE 0.007s
+[79/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-8.cnf run 1 A: SATISFIABLE 0.006s
+[79/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-8.cnf run 1 B: SATISFIABLE 0.006s
+[79/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-8.cnf run 2 A: SATISFIABLE 0.006s
+[79/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-8.cnf run 2 B: SATISFIABLE 0.006s
+[79/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-8.cnf run 3 A: SATISFIABLE 0.006s
+[79/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-8.cnf run 3 B: SATISFIABLE 0.006s
+[80/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-80.cnf run 1 A: SATISFIABLE 0.004s
+[80/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-80.cnf run 1 B: SATISFIABLE 0.004s
+[80/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-80.cnf run 2 A: SATISFIABLE 0.004s
+[80/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-80.cnf run 2 B: SATISFIABLE 0.004s
+[80/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-80.cnf run 3 A: SATISFIABLE 0.004s
+[80/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-80.cnf run 3 B: SATISFIABLE 0.004s
+[81/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-81.cnf run 1 A: SATISFIABLE 0.006s
+[81/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-81.cnf run 1 B: SATISFIABLE 0.006s
+[81/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-81.cnf run 2 A: SATISFIABLE 0.006s
+[81/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-81.cnf run 2 B: SATISFIABLE 0.006s
+[81/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-81.cnf run 3 A: SATISFIABLE 0.006s
+[81/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-81.cnf run 3 B: SATISFIABLE 0.006s
+[82/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-82.cnf run 1 A: SATISFIABLE 0.004s
+[82/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-82.cnf run 1 B: SATISFIABLE 0.004s
+[82/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-82.cnf run 2 A: SATISFIABLE 0.004s
+[82/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-82.cnf run 2 B: SATISFIABLE 0.004s
+[82/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-82.cnf run 3 A: SATISFIABLE 0.004s
+[82/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-82.cnf run 3 B: SATISFIABLE 0.004s
+[83/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-83.cnf run 1 A: SATISFIABLE 0.008s
+[83/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-83.cnf run 1 B: SATISFIABLE 0.008s
+[83/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-83.cnf run 2 A: SATISFIABLE 0.008s
+[83/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-83.cnf run 2 B: SATISFIABLE 0.008s
+[83/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-83.cnf run 3 A: SATISFIABLE 0.008s
+[83/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-83.cnf run 3 B: SATISFIABLE 0.008s
+[84/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-84.cnf run 1 A: SATISFIABLE 0.011s
+[84/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-84.cnf run 1 B: SATISFIABLE 0.011s
+[84/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-84.cnf run 2 A: SATISFIABLE 0.011s
+[84/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-84.cnf run 2 B: SATISFIABLE 0.011s
+[84/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-84.cnf run 3 A: SATISFIABLE 0.011s
+[84/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-84.cnf run 3 B: SATISFIABLE 0.011s
+[85/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-85.cnf run 1 A: SATISFIABLE 0.012s
+[85/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-85.cnf run 1 B: SATISFIABLE 0.011s
+[85/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-85.cnf run 2 A: SATISFIABLE 0.014s
+[85/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-85.cnf run 2 B: SATISFIABLE 0.012s
+[85/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-85.cnf run 3 A: SATISFIABLE 0.011s
+[85/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-85.cnf run 3 B: SATISFIABLE 0.011s
+[86/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-86.cnf run 1 A: SATISFIABLE 0.005s
+[86/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-86.cnf run 1 B: SATISFIABLE 0.004s
+[86/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-86.cnf run 2 A: SATISFIABLE 0.004s
+[86/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-86.cnf run 2 B: SATISFIABLE 0.004s
+[86/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-86.cnf run 3 A: SATISFIABLE 0.003s
+[86/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-86.cnf run 3 B: SATISFIABLE 0.004s
+[87/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-87.cnf run 1 A: SATISFIABLE 0.012s
+[87/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-87.cnf run 1 B: SATISFIABLE 0.012s
+[87/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-87.cnf run 2 A: SATISFIABLE 0.012s
+[87/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-87.cnf run 2 B: SATISFIABLE 0.012s
+[87/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-87.cnf run 3 A: SATISFIABLE 0.012s
+[87/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-87.cnf run 3 B: SATISFIABLE 0.012s
+[88/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-88.cnf run 1 A: SATISFIABLE 0.006s
+[88/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-88.cnf run 1 B: SATISFIABLE 0.006s
+[88/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-88.cnf run 2 A: SATISFIABLE 0.006s
+[88/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-88.cnf run 2 B: SATISFIABLE 0.005s
+[88/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-88.cnf run 3 A: SATISFIABLE 0.005s
+[88/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-88.cnf run 3 B: SATISFIABLE 0.005s
+[89/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-89.cnf run 1 A: SATISFIABLE 0.008s
+[89/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-89.cnf run 1 B: SATISFIABLE 0.008s
+[89/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-89.cnf run 2 A: SATISFIABLE 0.007s
+[89/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-89.cnf run 2 B: SATISFIABLE 0.007s
+[89/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-89.cnf run 3 A: SATISFIABLE 0.007s
+[89/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-89.cnf run 3 B: SATISFIABLE 0.007s
+[90/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-9.cnf run 1 A: SATISFIABLE 0.004s
+[90/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-9.cnf run 1 B: SATISFIABLE 0.004s
+[90/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-9.cnf run 2 A: SATISFIABLE 0.004s
+[90/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-9.cnf run 2 B: SATISFIABLE 0.004s
+[90/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-9.cnf run 3 A: SATISFIABLE 0.004s
+[90/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-9.cnf run 3 B: SATISFIABLE 0.004s
+[91/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-90.cnf run 1 A: SATISFIABLE 0.005s
+[91/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-90.cnf run 1 B: SATISFIABLE 0.004s
+[91/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-90.cnf run 2 A: SATISFIABLE 0.004s
+[91/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-90.cnf run 2 B: SATISFIABLE 0.004s
+[91/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-90.cnf run 3 A: SATISFIABLE 0.004s
+[91/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-90.cnf run 3 B: SATISFIABLE 0.004s
+[92/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-91.cnf run 1 A: SATISFIABLE 0.009s
+[92/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-91.cnf run 1 B: SATISFIABLE 0.010s
+[92/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-91.cnf run 2 A: SATISFIABLE 0.010s
+[92/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-91.cnf run 2 B: SATISFIABLE 0.010s
+[92/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-91.cnf run 3 A: SATISFIABLE 0.009s
+[92/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-91.cnf run 3 B: SATISFIABLE 0.010s
+[93/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-92.cnf run 1 A: SATISFIABLE 0.006s
+[93/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-92.cnf run 1 B: SATISFIABLE 0.005s
+[93/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-92.cnf run 2 A: SATISFIABLE 0.005s
+[93/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-92.cnf run 2 B: SATISFIABLE 0.005s
+[93/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-92.cnf run 3 A: SATISFIABLE 0.006s
+[93/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-92.cnf run 3 B: SATISFIABLE 0.005s
+[94/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-93.cnf run 1 A: SATISFIABLE 0.007s
+[94/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-93.cnf run 1 B: SATISFIABLE 0.007s
+[94/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-93.cnf run 2 A: SATISFIABLE 0.007s
+[94/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-93.cnf run 2 B: SATISFIABLE 0.007s
+[94/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-93.cnf run 3 A: SATISFIABLE 0.007s
+[94/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-93.cnf run 3 B: SATISFIABLE 0.007s
+[95/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-94.cnf run 1 A: SATISFIABLE 0.007s
+[95/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-94.cnf run 1 B: SATISFIABLE 0.007s
+[95/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-94.cnf run 2 A: SATISFIABLE 0.007s
+[95/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-94.cnf run 2 B: SATISFIABLE 0.007s
+[95/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-94.cnf run 3 A: SATISFIABLE 0.007s
+[95/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-94.cnf run 3 B: SATISFIABLE 0.007s
+[96/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-95.cnf run 1 A: SATISFIABLE 0.008s
+[96/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-95.cnf run 1 B: SATISFIABLE 0.008s
+[96/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-95.cnf run 2 A: SATISFIABLE 0.008s
+[96/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-95.cnf run 2 B: SATISFIABLE 0.008s
+[96/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-95.cnf run 3 A: SATISFIABLE 0.008s
+[96/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-95.cnf run 3 B: SATISFIABLE 0.008s
+[97/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-96.cnf run 1 A: SATISFIABLE 0.023s
+[97/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-96.cnf run 1 B: SATISFIABLE 0.023s
+[97/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-96.cnf run 2 A: SATISFIABLE 0.023s
+[97/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-96.cnf run 2 B: SATISFIABLE 0.023s
+[97/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-96.cnf run 3 A: SATISFIABLE 0.023s
+[97/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-96.cnf run 3 B: SATISFIABLE 0.023s
+[98/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-97.cnf run 1 A: SATISFIABLE 0.007s
+[98/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-97.cnf run 1 B: SATISFIABLE 0.006s
+[98/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-97.cnf run 2 A: SATISFIABLE 0.006s
+[98/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-97.cnf run 2 B: SATISFIABLE 0.006s
+[98/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-97.cnf run 3 A: SATISFIABLE 0.006s
+[98/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-97.cnf run 3 B: SATISFIABLE 0.006s
+[99/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-98.cnf run 1 A: SATISFIABLE 0.005s
+[99/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-98.cnf run 1 B: SATISFIABLE 0.004s
+[99/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-98.cnf run 2 A: SATISFIABLE 0.004s
+[99/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-98.cnf run 2 B: SATISFIABLE 0.004s
+[99/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-98.cnf run 3 A: SATISFIABLE 0.004s
+[99/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-98.cnf run 3 B: SATISFIABLE 0.004s
+[100/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-99.cnf run 1 A: SATISFIABLE 0.012s
+[100/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-99.cnf run 1 B: SATISFIABLE 0.013s
+[100/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-99.cnf run 2 A: SATISFIABLE 0.012s
+[100/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-99.cnf run 2 B: SATISFIABLE 0.013s
+[100/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-99.cnf run 3 A: SATISFIABLE 0.013s
+[100/100] ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-99.cnf run 3 B: SATISFIABLE 0.013s
+
+=== A: /Users/prabhavgoel/sat-opt/bin/minisat_baseline ===
+
+instance                                           result           median_s
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-1.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-10.cnf SATISFIABLE         0.012
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-100.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-11.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-12.cnf SATISFIABLE         0.009
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-13.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-14.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-15.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-16.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-17.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-18.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-19.cnf SATISFIABLE         0.009
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-2.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-20.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-21.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-22.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-23.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-24.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-25.cnf SATISFIABLE         0.010
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-26.cnf SATISFIABLE         0.024
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-27.cnf SATISFIABLE         0.009
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-28.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-29.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-3.cnf SATISFIABLE         0.012
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-30.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-31.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-32.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-33.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-34.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-35.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-36.cnf SATISFIABLE         0.010
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-37.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-38.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-39.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-4.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-40.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-41.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-42.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-43.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-44.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-45.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-46.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-47.cnf SATISFIABLE         0.008
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-48.cnf SATISFIABLE         0.008
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-49.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-5.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-50.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-51.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-52.cnf SATISFIABLE         0.010
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-53.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-54.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-55.cnf SATISFIABLE         0.009
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-56.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-57.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-58.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-59.cnf SATISFIABLE         0.014
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-6.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-60.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-61.cnf SATISFIABLE         0.014
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-62.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-63.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-64.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-65.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-66.cnf SATISFIABLE         0.009
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-67.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-68.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-69.cnf SATISFIABLE         0.003
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-7.cnf SATISFIABLE         0.013
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-70.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-71.cnf SATISFIABLE         0.008
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-72.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-73.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-74.cnf SATISFIABLE         0.023
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-75.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-76.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-77.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-78.cnf SATISFIABLE         0.011
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-79.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-8.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-80.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-81.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-82.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-83.cnf SATISFIABLE         0.008
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-84.cnf SATISFIABLE         0.011
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-85.cnf SATISFIABLE         0.012
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-86.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-87.cnf SATISFIABLE         0.012
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-88.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-89.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-9.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-90.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-91.cnf SATISFIABLE         0.009
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-92.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-93.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-94.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-95.cnf SATISFIABLE         0.008
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-96.cnf SATISFIABLE         0.023
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-97.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-98.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-99.cnf SATISFIABLE         0.012
+
+instances: 100  runs: 300
+sum of per-instance median times: 0.698 s
+total wall time of all runs:      2.130 s
+CSV written to results/ab_pgo_flat200_a.csv
+
+=== B: /Users/prabhavgoel/sat-opt/bin/minisat_pgo ===
+
+instance                                           result           median_s
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-1.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-10.cnf SATISFIABLE         0.012
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-100.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-11.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-12.cnf SATISFIABLE         0.010
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-13.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-14.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-15.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-16.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-17.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-18.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-19.cnf SATISFIABLE         0.009
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-2.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-20.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-21.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-22.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-23.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-24.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-25.cnf SATISFIABLE         0.011
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-26.cnf SATISFIABLE         0.025
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-27.cnf SATISFIABLE         0.009
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-28.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-29.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-3.cnf SATISFIABLE         0.011
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-30.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-31.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-32.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-33.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-34.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-35.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-36.cnf SATISFIABLE         0.010
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-37.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-38.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-39.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-4.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-40.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-41.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-42.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-43.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-44.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-45.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-46.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-47.cnf SATISFIABLE         0.008
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-48.cnf SATISFIABLE         0.008
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-49.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-5.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-50.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-51.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-52.cnf SATISFIABLE         0.010
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-53.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-54.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-55.cnf SATISFIABLE         0.009
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-56.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-57.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-58.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-59.cnf SATISFIABLE         0.014
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-6.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-60.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-61.cnf SATISFIABLE         0.014
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-62.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-63.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-64.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-65.cnf SATISFIABLE         0.008
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-66.cnf SATISFIABLE         0.009
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-67.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-68.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-69.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-7.cnf SATISFIABLE         0.014
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-70.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-71.cnf SATISFIABLE         0.008
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-72.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-73.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-74.cnf SATISFIABLE         0.023
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-75.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-76.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-77.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-78.cnf SATISFIABLE         0.011
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-79.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-8.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-80.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-81.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-82.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-83.cnf SATISFIABLE         0.008
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-84.cnf SATISFIABLE         0.011
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-85.cnf SATISFIABLE         0.011
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-86.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-87.cnf SATISFIABLE         0.012
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-88.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-89.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-9.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-90.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-91.cnf SATISFIABLE         0.010
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-92.cnf SATISFIABLE         0.005
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-93.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-94.cnf SATISFIABLE         0.007
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-95.cnf SATISFIABLE         0.008
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-96.cnf SATISFIABLE         0.023
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-97.cnf SATISFIABLE         0.006
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-98.cnf SATISFIABLE         0.004
+ai/hoos/Research/SAT/GenGCP/Flat200-479/flat200-99.cnf SATISFIABLE         0.013
+
+instances: 100  runs: 300
+sum of per-instance median times: 0.697 s
+total wall time of all runs:      2.240 s
+CSV written to results/ab_pgo_flat200_b.csv

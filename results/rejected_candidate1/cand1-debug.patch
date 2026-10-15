@@ -1,0 +1,38 @@
+diff --git a/minisat/core/Solver.cc b/minisat/core/Solver.cc
+index 6175cb4..bd800ae 100644
+--- a/minisat/core/Solver.cc
++++ b/minisat/core/Solver.cc
+@@ -524,22 +524,27 @@ CRef Solver::propagate()
+             CRef     cr        = i->cref;
+             Clause&  c         = ca[cr];
+             Lit      false_lit = ~p;
+-            if (c[0] == false_lit)
+-                c[0] = c[1], c[1] = false_lit;
++            Lit      first;
++            if (c[0] == false_lit){
++                first = c[1];
++                c[0] = first;
++                c[1] = false_lit;
++            }else
++                first = c[0];
+             assert(c[1] == false_lit);
+             i++;
+ 
+             // If 0th watch is true, then clause is already satisfied.
+-            Lit     first = c[0];
+-            Watcher w     = Watcher(cr, first);
++            Watcher w = Watcher(cr, first);
+             if (first != blocker && value(first) == l_True){
+                 *j++ = w; continue; }
+ 
+             // Look for new watch:
+             for (int k = 2; k < c.size(); k++)
+                 if (value(c[k]) != l_False){
+-                    c[1] = c[k]; c[k] = false_lit;
+-                    watches[~c[1]].push(w);
++                    Lit new_watch = c[k];
++                    c[k] = false_lit;
++                    watches[~new_watch].push(w);
+                     goto NextClause; }
+ 
+             // Did not find watch -- clause is unit under assignment:

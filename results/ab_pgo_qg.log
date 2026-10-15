@@ -1,0 +1,194 @@
+[1/22] qg1-07.cnf run 1 A: SATISFIABLE 0.011s
+[1/22] qg1-07.cnf run 1 B: SATISFIABLE 0.138s
+[1/22] qg1-07.cnf run 2 A: SATISFIABLE 0.008s
+[1/22] qg1-07.cnf run 2 B: SATISFIABLE 0.008s
+[1/22] qg1-07.cnf run 3 A: SATISFIABLE 0.008s
+[1/22] qg1-07.cnf run 3 B: SATISFIABLE 0.008s
+[2/22] qg1-08.cnf run 1 A: SATISFIABLE 0.159s
+[2/22] qg1-08.cnf run 1 B: SATISFIABLE 0.157s
+[2/22] qg1-08.cnf run 2 A: SATISFIABLE 0.156s
+[2/22] qg1-08.cnf run 2 B: SATISFIABLE 0.157s
+[2/22] qg1-08.cnf run 3 A: SATISFIABLE 0.156s
+[2/22] qg1-08.cnf run 3 B: SATISFIABLE 0.158s
+[3/22] qg2-07.cnf run 1 A: SATISFIABLE 0.009s
+[3/22] qg2-07.cnf run 1 B: SATISFIABLE 0.008s
+[3/22] qg2-07.cnf run 2 A: SATISFIABLE 0.008s
+[3/22] qg2-07.cnf run 2 B: SATISFIABLE 0.009s
+[3/22] qg2-07.cnf run 3 A: SATISFIABLE 0.008s
+[3/22] qg2-07.cnf run 3 B: SATISFIABLE 0.013s
+[4/22] qg2-08.cnf run 1 A: SATISFIABLE 0.031s
+[4/22] qg2-08.cnf run 1 B: SATISFIABLE 0.030s
+[4/22] qg2-08.cnf run 2 A: SATISFIABLE 0.029s
+[4/22] qg2-08.cnf run 2 B: SATISFIABLE 0.029s
+[4/22] qg2-08.cnf run 3 A: SATISFIABLE 0.032s
+[4/22] qg2-08.cnf run 3 B: SATISFIABLE 0.030s
+[5/22] qg3-08.cnf run 1 A: SATISFIABLE 0.006s
+[5/22] qg3-08.cnf run 1 B: SATISFIABLE 0.005s
+[5/22] qg3-08.cnf run 2 A: SATISFIABLE 0.006s
+[5/22] qg3-08.cnf run 2 B: SATISFIABLE 0.006s
+[5/22] qg3-08.cnf run 3 A: SATISFIABLE 0.005s
+[5/22] qg3-08.cnf run 3 B: SATISFIABLE 0.005s
+[6/22] qg3-09.cnf run 1 A: UNSATISFIABLE 0.861s
+[6/22] qg3-09.cnf run 1 B: UNSATISFIABLE 0.888s
+[6/22] qg3-09.cnf run 2 A: UNSATISFIABLE 0.873s
+[6/22] qg3-09.cnf run 2 B: UNSATISFIABLE 0.871s
+[6/22] qg3-09.cnf run 3 A: UNSATISFIABLE 0.873s
+[6/22] qg3-09.cnf run 3 B: UNSATISFIABLE 0.862s
+[7/22] qg4-08.cnf run 1 A: UNSATISFIABLE 0.010s
+[7/22] qg4-08.cnf run 1 B: UNSATISFIABLE 0.008s
+[7/22] qg4-08.cnf run 2 A: UNSATISFIABLE 0.008s
+[7/22] qg4-08.cnf run 2 B: UNSATISFIABLE 0.008s
+[7/22] qg4-08.cnf run 3 A: UNSATISFIABLE 0.008s
+[7/22] qg4-08.cnf run 3 B: UNSATISFIABLE 0.008s
+[8/22] qg4-09.cnf run 1 A: SATISFIABLE 0.005s
+[8/22] qg4-09.cnf run 1 B: SATISFIABLE 0.005s
+[8/22] qg4-09.cnf run 2 A: SATISFIABLE 0.005s
+[8/22] qg4-09.cnf run 2 B: SATISFIABLE 0.005s
+[8/22] qg4-09.cnf run 3 A: SATISFIABLE 0.005s
+[8/22] qg4-09.cnf run 3 B: SATISFIABLE 0.005s
+[9/22] qg5-09.cnf run 1 A: UNSATISFIABLE 0.008s
+[9/22] qg5-09.cnf run 1 B: UNSATISFIABLE 0.007s
+[9/22] qg5-09.cnf run 2 A: UNSATISFIABLE 0.007s
+[9/22] qg5-09.cnf run 2 B: UNSATISFIABLE 0.007s
+[9/22] qg5-09.cnf run 3 A: UNSATISFIABLE 0.007s
+[9/22] qg5-09.cnf run 3 B: UNSATISFIABLE 0.007s
+[10/22] qg5-10.cnf run 1 A: UNSATISFIABLE 0.011s
+[10/22] qg5-10.cnf run 1 B: UNSATISFIABLE 0.011s
+[10/22] qg5-10.cnf run 2 A: UNSATISFIABLE 0.011s
+[10/22] qg5-10.cnf run 2 B: UNSATISFIABLE 0.011s
+[10/22] qg5-10.cnf run 3 A: UNSATISFIABLE 0.011s
+[10/22] qg5-10.cnf run 3 B: UNSATISFIABLE 0.011s
+[11/22] qg5-11.cnf run 1 A: SATISFIABLE 0.017s
+[11/22] qg5-11.cnf run 1 B: SATISFIABLE 0.016s
+[11/22] qg5-11.cnf run 2 A: SATISFIABLE 0.015s
+[11/22] qg5-11.cnf run 2 B: SATISFIABLE 0.016s
+[11/22] qg5-11.cnf run 3 A: SATISFIABLE 0.016s
+[11/22] qg5-11.cnf run 3 B: SATISFIABLE 0.016s
+[12/22] qg5-12.cnf run 1 A: UNSATISFIABLE 0.035s
+[12/22] qg5-12.cnf run 1 B: UNSATISFIABLE 0.034s
+[12/22] qg5-12.cnf run 2 A: UNSATISFIABLE 0.033s
+[12/22] qg5-12.cnf run 2 B: UNSATISFIABLE 0.033s
+[12/22] qg5-12.cnf run 3 A: UNSATISFIABLE 0.033s
+[12/22] qg5-12.cnf run 3 B: UNSATISFIABLE 0.033s
+[13/22] qg5-13.cnf run 1 A: UNSATISFIABLE 1.096s
+[13/22] qg5-13.cnf run 1 B: UNSATISFIABLE 1.122s
+[13/22] qg5-13.cnf run 2 A: UNSATISFIABLE 1.108s
+[13/22] qg5-13.cnf run 2 B: UNSATISFIABLE 1.129s
+[13/22] qg5-13.cnf run 3 A: UNSATISFIABLE 1.102s
+[13/22] qg5-13.cnf run 3 B: UNSATISFIABLE 1.114s
+[14/22] qg6-09.cnf run 1 A: SATISFIABLE 0.007s
+[14/22] qg6-09.cnf run 1 B: SATISFIABLE 0.005s
+[14/22] qg6-09.cnf run 2 A: SATISFIABLE 0.005s
+[14/22] qg6-09.cnf run 2 B: SATISFIABLE 0.005s
+[14/22] qg6-09.cnf run 3 A: SATISFIABLE 0.005s
+[14/22] qg6-09.cnf run 3 B: SATISFIABLE 0.005s
+[15/22] qg6-10.cnf run 1 A: UNSATISFIABLE 0.010s
+[15/22] qg6-10.cnf run 1 B: UNSATISFIABLE 0.009s
+[15/22] qg6-10.cnf run 2 A: UNSATISFIABLE 0.009s
+[15/22] qg6-10.cnf run 2 B: UNSATISFIABLE 0.009s
+[15/22] qg6-10.cnf run 3 A: UNSATISFIABLE 0.009s
+[15/22] qg6-10.cnf run 3 B: UNSATISFIABLE 0.009s
+[16/22] qg6-11.cnf run 1 A: UNSATISFIABLE 0.042s
+[16/22] qg6-11.cnf run 1 B: UNSATISFIABLE 0.042s
+[16/22] qg6-11.cnf run 2 A: UNSATISFIABLE 0.040s
+[16/22] qg6-11.cnf run 2 B: UNSATISFIABLE 0.042s
+[16/22] qg6-11.cnf run 3 A: UNSATISFIABLE 0.040s
+[16/22] qg6-11.cnf run 3 B: UNSATISFIABLE 0.042s
+[17/22] qg6-12.cnf run 1 A: UNSATISFIABLE 0.252s
+[17/22] qg6-12.cnf run 1 B: UNSATISFIABLE 0.254s
+[17/22] qg6-12.cnf run 2 A: UNSATISFIABLE 0.251s
+[17/22] qg6-12.cnf run 2 B: UNSATISFIABLE 0.255s
+[17/22] qg6-12.cnf run 3 A: UNSATISFIABLE 0.251s
+[17/22] qg6-12.cnf run 3 B: UNSATISFIABLE 0.255s
+[18/22] qg7-09.cnf run 1 A: SATISFIABLE 0.007s
+[18/22] qg7-09.cnf run 1 B: SATISFIABLE 0.006s
+[18/22] qg7-09.cnf run 2 A: SATISFIABLE 0.005s
+[18/22] qg7-09.cnf run 2 B: SATISFIABLE 0.005s
+[18/22] qg7-09.cnf run 3 A: SATISFIABLE 0.011s
+[18/22] qg7-09.cnf run 3 B: SATISFIABLE 0.007s
+[19/22] qg7-10.cnf run 1 A: UNSATISFIABLE 0.010s
+[19/22] qg7-10.cnf run 1 B: UNSATISFIABLE 0.009s
+[19/22] qg7-10.cnf run 2 A: UNSATISFIABLE 0.009s
+[19/22] qg7-10.cnf run 2 B: UNSATISFIABLE 0.009s
+[19/22] qg7-10.cnf run 3 A: UNSATISFIABLE 0.009s
+[19/22] qg7-10.cnf run 3 B: UNSATISFIABLE 0.009s
+[20/22] qg7-11.cnf run 1 A: UNSATISFIABLE 0.021s
+[20/22] qg7-11.cnf run 1 B: UNSATISFIABLE 0.020s
+[20/22] qg7-11.cnf run 2 A: UNSATISFIABLE 0.019s
+[20/22] qg7-11.cnf run 2 B: UNSATISFIABLE 0.020s
+[20/22] qg7-11.cnf run 3 A: UNSATISFIABLE 0.020s
+[20/22] qg7-11.cnf run 3 B: UNSATISFIABLE 0.020s
+[21/22] qg7-12.cnf run 1 A: UNSATISFIABLE 0.082s
+[21/22] qg7-12.cnf run 1 B: UNSATISFIABLE 0.082s
+[21/22] qg7-12.cnf run 2 A: UNSATISFIABLE 0.081s
+[21/22] qg7-12.cnf run 2 B: UNSATISFIABLE 0.082s
+[21/22] qg7-12.cnf run 3 A: UNSATISFIABLE 0.081s
+[21/22] qg7-12.cnf run 3 B: UNSATISFIABLE 0.082s
+[22/22] qg7-13.cnf run 1 A: SATISFIABLE 0.031s
+[22/22] qg7-13.cnf run 1 B: SATISFIABLE 0.030s
+[22/22] qg7-13.cnf run 2 A: SATISFIABLE 0.029s
+[22/22] qg7-13.cnf run 2 B: SATISFIABLE 0.030s
+[22/22] qg7-13.cnf run 3 A: SATISFIABLE 0.029s
+[22/22] qg7-13.cnf run 3 B: SATISFIABLE 0.030s
+
+=== A: /Users/prabhavgoel/sat-opt/bin/minisat_baseline ===
+
+instance                                           result           median_s
+qg1-07.cnf                                         SATISFIABLE         0.008
+qg1-08.cnf                                         SATISFIABLE         0.156
+qg2-07.cnf                                         SATISFIABLE         0.008
+qg2-08.cnf                                         SATISFIABLE         0.031
+qg3-08.cnf                                         SATISFIABLE         0.006
+qg3-09.cnf                                         UNSATISFIABLE       0.873
+qg4-08.cnf                                         UNSATISFIABLE       0.008
+qg4-09.cnf                                         SATISFIABLE         0.005
+qg5-09.cnf                                         UNSATISFIABLE       0.007
+qg5-10.cnf                                         UNSATISFIABLE       0.011
+qg5-11.cnf                                         SATISFIABLE         0.016
+qg5-12.cnf                                         UNSATISFIABLE       0.033
+qg5-13.cnf                                         UNSATISFIABLE       1.102
+qg6-09.cnf                                         SATISFIABLE         0.005
+qg6-10.cnf                                         UNSATISFIABLE       0.009
+qg6-11.cnf                                         UNSATISFIABLE       0.040
+qg6-12.cnf                                         UNSATISFIABLE       0.251
+qg7-09.cnf                                         SATISFIABLE         0.007
+qg7-10.cnf                                         UNSATISFIABLE       0.009
+qg7-11.cnf                                         UNSATISFIABLE       0.020
+qg7-12.cnf                                         UNSATISFIABLE       0.081
+qg7-13.cnf                                         SATISFIABLE         0.029
+
+instances: 22  runs: 66
+sum of per-instance median times: 2.715 s
+total wall time of all runs:      8.154 s
+CSV written to results/ab_pgo_qg_a.csv
+
+=== B: /Users/prabhavgoel/sat-opt/bin/minisat_pgo ===
+
+instance                                           result           median_s
+qg1-07.cnf                                         SATISFIABLE         0.008
+qg1-08.cnf                                         SATISFIABLE         0.157
+qg2-07.cnf                                         SATISFIABLE         0.009
+qg2-08.cnf                                         SATISFIABLE         0.030
+qg3-08.cnf                                         SATISFIABLE         0.005
+qg3-09.cnf                                         UNSATISFIABLE       0.871
+qg4-08.cnf                                         UNSATISFIABLE       0.008
+qg4-09.cnf                                         SATISFIABLE         0.005
+qg5-09.cnf                                         UNSATISFIABLE       0.007
+qg5-10.cnf                                         UNSATISFIABLE       0.011
+qg5-11.cnf                                         SATISFIABLE         0.016
+qg5-12.cnf                                         UNSATISFIABLE       0.033
+qg5-13.cnf                                         UNSATISFIABLE       1.122
+qg6-09.cnf                                         SATISFIABLE         0.005
+qg6-10.cnf                                         UNSATISFIABLE       0.009
+qg6-11.cnf                                         UNSATISFIABLE       0.042
+qg6-12.cnf                                         UNSATISFIABLE       0.255
+qg7-09.cnf                                         SATISFIABLE         0.006
+qg7-10.cnf                                         UNSATISFIABLE       0.009
+qg7-11.cnf                                         UNSATISFIABLE       0.020
+qg7-12.cnf                                         UNSATISFIABLE       0.082
+qg7-13.cnf                                         SATISFIABLE         0.030
+
+instances: 22  runs: 66
+sum of per-instance median times: 2.738 s
+total wall time of all runs:      8.358 s
+CSV written to results/ab_pgo_qg_b.csv

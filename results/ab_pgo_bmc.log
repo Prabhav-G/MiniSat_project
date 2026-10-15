@@ -1,0 +1,122 @@
+[1/13] bmc-galileo-8.cnf run 1 A: SATISFIABLE 0.138s
+[1/13] bmc-galileo-8.cnf run 1 B: SATISFIABLE 0.139s
+[1/13] bmc-galileo-8.cnf run 2 A: SATISFIABLE 0.139s
+[1/13] bmc-galileo-8.cnf run 2 B: SATISFIABLE 0.136s
+[1/13] bmc-galileo-8.cnf run 3 A: SATISFIABLE 0.137s
+[1/13] bmc-galileo-8.cnf run 3 B: SATISFIABLE 0.136s
+[2/13] bmc-galileo-9.cnf run 1 A: SATISFIABLE 0.161s
+[2/13] bmc-galileo-9.cnf run 1 B: SATISFIABLE 0.164s
+[2/13] bmc-galileo-9.cnf run 2 A: SATISFIABLE 0.180s
+[2/13] bmc-galileo-9.cnf run 2 B: SATISFIABLE 0.165s
+[2/13] bmc-galileo-9.cnf run 3 A: SATISFIABLE 0.164s
+[2/13] bmc-galileo-9.cnf run 3 B: SATISFIABLE 0.163s
+[3/13] bmc-ibm-1.cnf run 1 A: SATISFIABLE 0.050s
+[3/13] bmc-ibm-1.cnf run 1 B: SATISFIABLE 0.050s
+[3/13] bmc-ibm-1.cnf run 2 A: SATISFIABLE 0.050s
+[3/13] bmc-ibm-1.cnf run 2 B: SATISFIABLE 0.050s
+[3/13] bmc-ibm-1.cnf run 3 A: SATISFIABLE 0.050s
+[3/13] bmc-ibm-1.cnf run 3 B: SATISFIABLE 0.051s
+[4/13] bmc-ibm-10.cnf run 1 A: SATISFIABLE 0.217s
+[4/13] bmc-ibm-10.cnf run 1 B: SATISFIABLE 0.217s
+[4/13] bmc-ibm-10.cnf run 2 A: SATISFIABLE 0.240s
+[4/13] bmc-ibm-10.cnf run 2 B: SATISFIABLE 0.218s
+[4/13] bmc-ibm-10.cnf run 3 A: SATISFIABLE 0.214s
+[4/13] bmc-ibm-10.cnf run 3 B: SATISFIABLE 0.216s
+[5/13] bmc-ibm-11.cnf run 1 A: SATISFIABLE 0.154s
+[5/13] bmc-ibm-11.cnf run 1 B: SATISFIABLE 0.155s
+[5/13] bmc-ibm-11.cnf run 2 A: SATISFIABLE 0.152s
+[5/13] bmc-ibm-11.cnf run 2 B: SATISFIABLE 0.150s
+[5/13] bmc-ibm-11.cnf run 3 A: SATISFIABLE 0.149s
+[5/13] bmc-ibm-11.cnf run 3 B: SATISFIABLE 0.148s
+[6/13] bmc-ibm-12.cnf run 1 A: SATISFIABLE 0.439s
+[6/13] bmc-ibm-12.cnf run 1 B: SATISFIABLE 0.428s
+[6/13] bmc-ibm-12.cnf run 2 A: SATISFIABLE 0.433s
+[6/13] bmc-ibm-12.cnf run 2 B: SATISFIABLE 0.430s
+[6/13] bmc-ibm-12.cnf run 3 A: SATISFIABLE 0.441s
+[6/13] bmc-ibm-12.cnf run 3 B: SATISFIABLE 0.437s
+[7/13] bmc-ibm-13.cnf run 1 A: SATISFIABLE 0.414s
+[7/13] bmc-ibm-13.cnf run 1 B: SATISFIABLE 0.411s
+[7/13] bmc-ibm-13.cnf run 2 A: SATISFIABLE 0.400s
+[7/13] bmc-ibm-13.cnf run 2 B: SATISFIABLE 0.417s
+[7/13] bmc-ibm-13.cnf run 3 A: SATISFIABLE 0.401s
+[7/13] bmc-ibm-13.cnf run 3 B: SATISFIABLE 0.417s
+[8/13] bmc-ibm-2.cnf run 1 A: SATISFIABLE 0.008s
+[8/13] bmc-ibm-2.cnf run 1 B: SATISFIABLE 0.006s
+[8/13] bmc-ibm-2.cnf run 2 A: SATISFIABLE 0.006s
+[8/13] bmc-ibm-2.cnf run 2 B: SATISFIABLE 0.006s
+[8/13] bmc-ibm-2.cnf run 3 A: SATISFIABLE 0.006s
+[8/13] bmc-ibm-2.cnf run 3 B: SATISFIABLE 0.006s
+[9/13] bmc-ibm-3.cnf run 1 A: SATISFIABLE 0.058s
+[9/13] bmc-ibm-3.cnf run 1 B: SATISFIABLE 0.057s
+[9/13] bmc-ibm-3.cnf run 2 A: SATISFIABLE 0.057s
+[9/13] bmc-ibm-3.cnf run 2 B: SATISFIABLE 0.063s
+[9/13] bmc-ibm-3.cnf run 3 A: SATISFIABLE 0.057s
+[9/13] bmc-ibm-3.cnf run 3 B: SATISFIABLE 0.058s
+[10/13] bmc-ibm-4.cnf run 1 A: SATISFIABLE 0.079s
+[10/13] bmc-ibm-4.cnf run 1 B: SATISFIABLE 0.079s
+[10/13] bmc-ibm-4.cnf run 2 A: SATISFIABLE 0.077s
+[10/13] bmc-ibm-4.cnf run 2 B: SATISFIABLE 0.079s
+[10/13] bmc-ibm-4.cnf run 3 A: SATISFIABLE 0.078s
+[10/13] bmc-ibm-4.cnf run 3 B: SATISFIABLE 0.079s
+[11/13] bmc-ibm-5.cnf run 1 A: SATISFIABLE 0.026s
+[11/13] bmc-ibm-5.cnf run 1 B: SATISFIABLE 0.024s
+[11/13] bmc-ibm-5.cnf run 2 A: SATISFIABLE 0.024s
+[11/13] bmc-ibm-5.cnf run 2 B: SATISFIABLE 0.024s
+[11/13] bmc-ibm-5.cnf run 3 A: SATISFIABLE 0.024s
+[11/13] bmc-ibm-5.cnf run 3 B: SATISFIABLE 0.024s
+[12/13] bmc-ibm-6.cnf run 1 A: SATISFIABLE 0.210s
+[12/13] bmc-ibm-6.cnf run 1 B: SATISFIABLE 0.209s
+[12/13] bmc-ibm-6.cnf run 2 A: SATISFIABLE 0.211s
+[12/13] bmc-ibm-6.cnf run 2 B: SATISFIABLE 0.211s
+[12/13] bmc-ibm-6.cnf run 3 A: SATISFIABLE 0.211s
+[12/13] bmc-ibm-6.cnf run 3 B: SATISFIABLE 0.224s
+[13/13] bmc-ibm-7.cnf run 1 A: SATISFIABLE 0.021s
+[13/13] bmc-ibm-7.cnf run 1 B: SATISFIABLE 0.019s
+[13/13] bmc-ibm-7.cnf run 2 A: SATISFIABLE 0.020s
+[13/13] bmc-ibm-7.cnf run 2 B: SATISFIABLE 0.020s
+[13/13] bmc-ibm-7.cnf run 3 A: SATISFIABLE 0.020s
+[13/13] bmc-ibm-7.cnf run 3 B: SATISFIABLE 0.020s
+
+=== A: /Users/prabhavgoel/sat-opt/bin/minisat_baseline ===
+
+instance                                           result           median_s
+bmc-galileo-8.cnf                                  SATISFIABLE         0.138
+bmc-galileo-9.cnf                                  SATISFIABLE         0.164
+bmc-ibm-1.cnf                                      SATISFIABLE         0.050
+bmc-ibm-10.cnf                                     SATISFIABLE         0.217
+bmc-ibm-11.cnf                                     SATISFIABLE         0.152
+bmc-ibm-12.cnf                                     SATISFIABLE         0.439
+bmc-ibm-13.cnf                                     SATISFIABLE         0.401
+bmc-ibm-2.cnf                                      SATISFIABLE         0.006
+bmc-ibm-3.cnf                                      SATISFIABLE         0.057
+bmc-ibm-4.cnf                                      SATISFIABLE         0.078
+bmc-ibm-5.cnf                                      SATISFIABLE         0.024
+bmc-ibm-6.cnf                                      SATISFIABLE         0.211
+bmc-ibm-7.cnf                                      SATISFIABLE         0.020
+
+instances: 13  runs: 39
+sum of per-instance median times: 1.958 s
+total wall time of all runs:      5.918 s
+CSV written to results/ab_pgo_bmc_a.csv
+
+=== B: /Users/prabhavgoel/sat-opt/bin/minisat_pgo ===
+
+instance                                           result           median_s
+bmc-galileo-8.cnf                                  SATISFIABLE         0.136
+bmc-galileo-9.cnf                                  SATISFIABLE         0.164
+bmc-ibm-1.cnf                                      SATISFIABLE         0.050
+bmc-ibm-10.cnf                                     SATISFIABLE         0.217
+bmc-ibm-11.cnf                                     SATISFIABLE         0.150
+bmc-ibm-12.cnf                                     SATISFIABLE         0.430
+bmc-ibm-13.cnf                                     SATISFIABLE         0.417
+bmc-ibm-2.cnf                                      SATISFIABLE         0.006
+bmc-ibm-3.cnf                                      SATISFIABLE         0.058
+bmc-ibm-4.cnf                                      SATISFIABLE         0.079
+bmc-ibm-5.cnf                                      SATISFIABLE         0.024
+bmc-ibm-6.cnf                                      SATISFIABLE         0.211
+bmc-ibm-7.cnf                                      SATISFIABLE         0.020
+
+instances: 13  runs: 39
+sum of per-instance median times: 1.962 s
+total wall time of all runs:      5.907 s
+CSV written to results/ab_pgo_bmc_b.csv
