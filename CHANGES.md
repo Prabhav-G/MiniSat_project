@@ -146,3 +146,5 @@ Raw data for this experiment lives in `results/ab_pgo_*`,
 bin/minisat_pgo_native vs baseline on 14 instances (7 SAT, 7 UNSAT; baseline 9.6-135 s), 3 repeats, A/B interleaved. All six counters identical on every instance. Geomean speedup 0.991 (sum of medians 888.0 s vs 889.8 s); per-instance range 0.959-1.030; 10 of 14 slightly slower. Baseline run-to-run spread: median 1.019, max 1.356 (oddball_20_5_ttf, runs ranged 99-134 s, consistent with thermal throttling of a fanless laptop). Conclusion: no measurable speedup; neutral to about 1% slower, matching the uuf250 result (0.983).
 
 SAT model check on held-out set: 14 models (7 instances x 2 binaries), 0 failures (verify_heldout_models.py).
+
+Cross-check vs CaDiCaL (cross_check.py): 64 instances (all QG and bmc, 15 uuf250, 14 held-out). 63 verdicts agree; 1 inconclusive (REGRandom-K3-L3-Seed30: CaDiCaL timed out at 600 s). DRAT proofs verified by drat-trim for 33 of 34 UNSAT instances.
