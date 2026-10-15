@@ -2,9 +2,10 @@
 """Benchmark a minisat binary on every .cnf file under a directory.
 
 Each run is executed with -rnd-seed=1, timed with a wall clock, and its
-stdout is parsed for the result line and the conflicts / decisions /
-propagations counters.  One CSV row is written per run and a per-instance
-median-time summary is printed at the end.
+stdout is parsed for the result line and the restarts / conflicts /
+decisions / propagations / conflict literals counters.  One CSV row is
+written per run and a per-instance median-time summary is printed at the
+end.
 """
 
 import argparse
@@ -16,24 +17,33 @@ import sys
 import time
 from pathlib import Path
 
-CSV_FIELDS = ["instance", "repeat", "result", "time", "conflicts", "decisions", "propagations"]
+# CSV column -> label of the statistics line in minisat's stdout.
+COUNTERS = {
+    "restarts": "restarts",
+    "conflicts": "conflicts",
+    "decisions": "decisions",
+    "propagations": "propagations",
+    "conflict_literals": "conflict literals",
+}
+CSV_FIELDS = ["instance", "repeat", "result", "time"] + list(COUNTERS)
 
 
 def parse_output(stdout):
-    """Extract (result, conflicts, decisions, propagations) from minisat stdout.
+    """Extract the verdict and the counters from minisat stdout.
 
-    result is "SATISFIABLE", "UNSATISFIABLE" or "" when neither verdict is
-    printed; the counters are None when their statistics line is missing.
+    Returns (result, counts): result is "SATISFIABLE", "UNSATISFIABLE" or
+    "" when neither verdict is printed; counts maps every COUNTERS column
+    to its integer value, or None when the statistics line is missing.
     """
     result = ""
     for line in stdout.splitlines():
         if line.strip() in ("SATISFIABLE", "UNSATISFIABLE"):
             result = line.strip()
     counts = {}
-    for name in ("conflicts", "decisions", "propagations"):
-        match = re.search(r"^%s\s*:\s*(\d+)" % name, stdout, re.MULTILINE)
-        counts[name] = int(match.group(1)) if match else None
-    return result, counts["conflicts"], counts["decisions"], counts["propagations"]
+    for column, label in COUNTERS.items():
+        match = re.search(r"^%s\s*:\s*(\d+)" % re.escape(label), stdout, re.MULTILINE)
+        counts[column] = int(match.group(1)) if match else None
+    return result, counts
 
 
 def run_once(binary, cnf, timeout):
@@ -49,18 +59,42 @@ def run_once(binary, cnf, timeout):
         elapsed = time.perf_counter() - start
         stdout = exc.stdout.decode(errors="replace") if isinstance(exc.stdout, bytes) else (exc.stdout or "")
         timed_out = True
-    result, conflicts, decisions, propagations = parse_output(stdout)
+    result, counts = parse_output(stdout)
     if timed_out:
         result = "TIMEOUT"
     elif not result:
         result = "ERROR"
-    return {
-        "result": result,
-        "time": round(elapsed, 4),
-        "conflicts": conflicts,
-        "decisions": decisions,
-        "propagations": propagations,
-    }
+    row = {"result": result, "time": round(elapsed, 4)}
+    row.update(counts)
+    return row
+
+
+def find_instances(directory):
+    """Return the sorted list of .cnf files under directory, or exit if none."""
+    instances = sorted(Path(directory).rglob("*.cnf"))
+    if not instances:
+        sys.exit("no .cnf files found under %s" % directory)
+    return instances
+
+
+def print_summary(instances, root, rows, out):
+    """Print the per-instance median time table and totals for one binary."""
+    print()
+    print("%-50s %-14s %10s" % ("instance", "result", "median_s"))
+    total_median = 0.0
+    for cnf in instances:
+        name = str(cnf.relative_to(root))
+        times = [r["time"] for r in rows if r["instance"] == name]
+        results = sorted({r["result"] for r in rows if r["instance"] == name})
+        median = statistics.median(times)
+        total_median += median
+        print("%-50s %-14s %10.3f" % (name, "/".join(results), median))
+    total_wall = sum(r["time"] for r in rows)
+    print()
+    print("instances: %d  runs: %d" % (len(instances), len(rows)))
+    print("sum of per-instance median times: %.3f s" % total_median)
+    print("total wall time of all runs:      %.3f s" % total_wall)
+    print("CSV written to %s" % out)
 
 
 def main():
@@ -75,9 +109,7 @@ def main():
 
     binary = str(Path(args.bin).resolve())
     root = Path(args.dir)
-    instances = sorted(root.rglob("*.cnf"))
-    if not instances:
-        sys.exit("no .cnf files found under %s" % root)
+    instances = find_instances(root)
 
     rows = []
     with open(args.out, "w", newline="") as fh:
@@ -94,22 +126,7 @@ def main():
                 rows.append(row)
                 print("[%d/%d] %s run %d: %s %.3fs" % (index, len(instances), name, repeat, row["result"], row["time"]))
 
-    print()
-    print("%-50s %-14s %10s" % ("instance", "result", "median_s"))
-    total_median = 0.0
-    for cnf in instances:
-        name = str(cnf.relative_to(root))
-        times = [r["time"] for r in rows if r["instance"] == name]
-        results = sorted({r["result"] for r in rows if r["instance"] == name})
-        median = statistics.median(times)
-        total_median += median
-        print("%-50s %-14s %10.3f" % (name, "/".join(results), median))
-    total_wall = sum(r["time"] for r in rows)
-    print()
-    print("instances: %d  runs: %d" % (len(instances), len(rows)))
-    print("sum of per-instance median times: %.3f s" % total_median)
-    print("total wall time of all runs:      %.3f s" % total_wall)
-    print("CSV written to %s" % args.out)
+    print_summary(instances, root, rows, args.out)
 
 
 if __name__ == "__main__":

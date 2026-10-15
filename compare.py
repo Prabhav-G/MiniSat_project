@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """Compare two harness.py CSV files (a base and a new solver build).
 
-For every instance the result and the conflicts / decisions / propagations
-counters must be identical across all repeats of both files; every
-mismatch is listed and makes the script exit with status 1.  The script
+For every instance the result and the restarts / conflicts / decisions /
+propagations / conflict literals counters must be identical across all
+repeats of both files; every mismatch is listed and makes the script exit
+with status 1.  A counter column missing from one of the files (CSVs
+written by an older harness.py) is skipped with a warning.  The script
 then reports the median-time speedup (base / new) per instance, the
 geometric mean speedup, the speedup of the slowest base instance and the
 run-to-run spread (max / min of the repeat times) of the base file.
@@ -16,30 +18,33 @@ import statistics
 import sys
 from collections import defaultdict
 
-COUNTERS = ["result", "conflicts", "decisions", "propagations"]
+from harness import COUNTERS
+
+CHECKED = ["result"] + list(COUNTERS)
 
 
 def load(path):
-    """Read a harness CSV into {instance: [row dict, ...]} with float times."""
+    """Read a harness CSV into ({instance: [row dict, ...]}, columns) with float times."""
     runs = defaultdict(list)
     with open(path, newline="") as fh:
-        for row in csv.DictReader(fh):
+        reader = csv.DictReader(fh)
+        for row in reader:
             row["time"] = float(row["time"])
             runs[row["instance"]].append(row)
-    return runs
+        return runs, list(reader.fieldnames or [])
 
 
-def signature(row):
-    """The (result, conflicts, decisions, propagations) tuple of one run."""
-    return tuple(row[name] for name in COUNTERS)
+def signature(row, columns):
+    """The tuple of the checked column values of one run."""
+    return tuple(row[name] for name in columns)
 
 
-def find_mismatches(base, new):
+def find_mismatches(base, new, columns):
     """Return a list of human-readable mismatch descriptions.
 
     A mismatch is an instance present in only one file, an instance whose
-    repeats disagree within one file, or an instance whose signature
-    differs between the two files.
+    repeats disagree within one file, or an instance whose signature (the
+    values of the given columns) differs between the two files.
     """
     mismatches = []
     for name in sorted(set(base) | set(new)):
@@ -48,7 +53,7 @@ def find_mismatches(base, new):
             continue
         signatures = {}
         for label, rows in (("base", base[name]), ("new", new[name])):
-            distinct = sorted({signature(r) for r in rows})
+            distinct = sorted({signature(r, columns) for r in rows})
             if len(distinct) > 1:
                 mismatches.append("%s: %s repeats disagree: %s" % (name, label, distinct))
             signatures[label] = distinct[0]
@@ -64,12 +69,18 @@ def main():
     parser.add_argument("--new", required=True, help="harness CSV of the new binary")
     args = parser.parse_args()
 
-    base = load(args.base)
-    new = load(args.new)
+    base, base_columns = load(args.base)
+    new, new_columns = load(args.new)
     if not base or not new:
         sys.exit("empty CSV: %s" % (args.base if not base else args.new))
 
-    mismatches = find_mismatches(base, new)
+    columns = [c for c in CHECKED if c in base_columns and c in new_columns]
+    skipped = [c for c in CHECKED if c not in columns]
+    if skipped:
+        print("WARNING: not checked (column missing from a CSV): %s" % ", ".join(skipped))
+        print()
+    print("checked columns: %s" % ", ".join(columns))
+    mismatches = find_mismatches(base, new, columns)
     if mismatches:
         print("MISMATCHES (%d):" % len(mismatches))
         for line in mismatches:
