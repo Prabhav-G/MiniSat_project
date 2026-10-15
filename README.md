@@ -2,7 +2,7 @@
 
 I tried to speed up MiniSat 2.2 without changing its search, using
 [KISS Sorcar](https://github.com/ksenxx/kiss_ai) to write and modify the code, and
-building my own verification pipeline around it. I had no prior C++ experience.
+building my own verification pipeline around it.
 
 **Main result:** none of the experiments produced a measurable speedup. The
 verification pipeline, which requires bit-identical solver behaviour, did catch one
