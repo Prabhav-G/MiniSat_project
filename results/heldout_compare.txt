@@ -1,0 +1,23 @@
+checked columns: result, restarts, conflicts, decisions, propagations, conflict_literals
+instance                                           result         base_med_s  new_med_s  speedup  base_spread
+3197b65ef50328394a0c9e73281d7122-b20_1.cnf         UNSATISFIABLE      40.920     42.541    0.962        1.012
+3ec81fcaac5a1da8a6ca4da0b9d8eb02-gm16spctrc.cnf    UNSATISFIABLE      80.052     79.639    1.005        1.049
+43687a48fb119ca61b47c2fc69a71e7d-manthey_single-ordered-initialized-w42-b8.cnf UNSATISFIABLE      74.169     76.785    0.966        1.020
+53c21f3e78f060883026b5a12ba691d8-maximum_constrained_partition_14_bits_n200.cnf SATISFIABLE        30.164     30.625    0.985        1.015
+5ff5e9d5aab95667d3d2bd50e1e6792a-b21.cnf           UNSATISFIABLE      59.694     60.346    0.989        1.054
+6ef090a10c10352090100af7b6654c31-summle_X8638_steps7_I1-2-2-4-4-8-25-100.cnf SATISFIABLE         9.640     10.051    0.959        1.055
+7a44efe7c2dbf88a61e7cb750f307937-Break_triple_12_20.xml.cnf SATISFIABLE        17.823     17.923    0.994        1.018
+82851650dea77d44864b3fd8ae387691-REGRandom-K3-L3-Seed30.sanitized.cnf UNSATISFIABLE      32.422     32.468    0.999        1.040
+8f391f2bf8167f1b96467f3479b33dc5-oddball_20_5_ttf.normalised.cnf UNSATISFIABLE     132.056    128.173    1.030        1.356
+9b998be0c639d06988c4902eb125c0b7-frb35-17-5_ext.cnf SATISFIABLE        88.626     86.548    1.024        1.208
+ad9eb96bac59319fc2f7daffd1f961f8-AProVE07-21.cnf   UNSATISFIABLE      98.591    100.248    0.983        1.013
+e318e2ac78b473091c3c2197afd7fc98-544707209399nw.shuffled-as.sat03-1671.cnf SATISFIABLE        65.114     66.078    0.985        1.011
+f17dfbed8c18716a41b231702e127524-SC25_Timetable_C_406_E_45_Cl_26_D_7_T_50.normalised.cnf SATISFIABLE        23.925     23.981    0.998        1.011
+f371fb73e6bd6d05b306519818bd5c89-WS_500_16_90_70.apx_1_DS-ST.cnf SATISFIABLE       134.770    134.348    1.003        1.009
+
+instances compared:            14
+sum of base medians:           887.966 s
+sum of new medians:            889.757 s
+geometric mean speedup:        0.991
+slowest base instance:         f371fb73e6bd6d05b306519818bd5c89-WS_500_16_90_70.apx_1_DS-ST.cnf (134.770 s) speedup 1.003
+base run-to-run spread:        median 1.019  max 1.356 (8f391f2bf8167f1b96467f3479b33dc5-oddball_20_5_ttf.normalised.cnf)

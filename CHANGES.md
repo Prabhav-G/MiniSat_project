@@ -141,3 +141,6 @@ Raw data for this experiment lives in `results/ab_pgo_*`,
 `results/ab_pgo_native_*`, `results/compare_pgo_*`,
 `results/compare_pgo_native_*`, `results/option_matrix_results.csv`,
 `results/model_check_results.csv` and `results/sat_instances.txt`.
+
+## Held-out evaluation (one shot, pre-declared in HELDOUT_PLAN.txt)
+bin/minisat_pgo_native vs baseline on 14 instances (7 SAT, 7 UNSAT; baseline 9.6-135 s), 3 repeats, A/B interleaved. All six counters identical on every instance. Geomean speedup 0.991 (sum of medians 888.0 s vs 889.8 s); per-instance range 0.959-1.030; 10 of 14 slightly slower. Baseline run-to-run spread: median 1.019, max 1.356 (oddball_20_5_ttf, runs ranged 99-134 s, consistent with thermal throttling of a fanless laptop). Conclusion: no measurable speedup; neutral to about 1% slower, matching the uuf250 result (0.983).
