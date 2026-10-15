@@ -1,0 +1,1 @@
+Pre-declared evaluation: baseline vs bin/minisat_pgo_native, --repeat 3, --timeout 300, run once. 13 instances from the second screening pass (smallest files first, 150 s cap, 60 min budget) plus 1 (Timetable_C_406) found in the first pass at 60 s cap. Decided before any optimized binary ran on these files.
