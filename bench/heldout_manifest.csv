@@ -1,0 +1,5 @@
+filename,size_bytes,result,time_seconds
+7a44efe7c2dbf88a61e7cb750f307937-Break_triple_12_20.xml.cnf,769729,SAT,53.770
+6ef090a10c10352090100af7b6654c31-summle_X8638_steps7_I1-2-2-4-4-8-25-100.cnf,3980423,SAT,30.937
+f17dfbed8c18716a41b231702e127524-SC25_Timetable_C_406_E_45_Cl_26_D_7_T_50.normalised.cnf,13657402,SAT,47.079
+465c7f101b2d24de63f6a6f544faa9ee-crusti_g2io_175_0.2_511_10.normalised.cnf,291458885,SAT,51.232
